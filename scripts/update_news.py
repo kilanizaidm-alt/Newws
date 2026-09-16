@@ -50,7 +50,7 @@ HOSTS = {
     "news.un.org",
 }
 
-MODEL = "gemini-3.8-flash"
+MODEL = "gemini-flash-latest"
 LIMIT = 2_000_000
 STAGE = "startup"
 
