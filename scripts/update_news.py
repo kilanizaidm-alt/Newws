@@ -247,8 +247,10 @@ def main():
 
 
 if __name__ == "__main__":
-    try: main()
+    try:
+        main()
     except Exception as error:
-        # Never print API responses, headers or keys into workflow logs.
-                print(f"Update stopped ({type(error).__name__}), line {__import__('traceback').extract_tb(error.__traceback__)[-1].lineno}", file=sys.stderr)
-        
+        import traceback
+        line = traceback.extract_tb(error.__traceback__)[-1].lineno
+        print(f"Update stopped ({type(error).__name__}), line {line}", file=sys.stderr)
+        sys.exit(1)
