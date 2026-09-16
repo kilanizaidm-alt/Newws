@@ -1,0 +1,103 @@
+name: Test Gemini connection
+
+on:
+  push:
+    paths:
+      - ".github/workflows/test-gemini.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Test a small API request
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import sys
+          import urllib.error
+          import urllib.request
+
+          key = os.environ.get("GEMINI_API_KEY", "").strip()
+          confirmed = os.environ.get("FREE_TIER_CONFIRMED") == "true"
+
+          if not key or not confirmed:
+              print("Missing key or free-tier confirmation.")
+              sys.exit(1)
+
+          class NoRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self, *args, **kwargs):
+                  return None
+
+          payload = {
+              "contents": [{
+                  "parts": [{
+                      "text": "Translate World news into Arabic."
+                  }]
+              }]
+          }
+
+          request = urllib.request.Request(
+              "https://generativelanguage.googleapis.com/v1beta/"
+              "models/gemini-flash-latest:generateContent",
+              data=json.dumps(payload).encode(),
+              headers={
+                  "Content-Type": "application/json",
+                  "x-goog-api-key": key,
+              },
+              method="POST",
+          )
+
+          try:
+              opener = urllib.request.build_opener(NoRedirect())
+              with opener.open(request, timeout=90) as response:
+                  result = json.loads(response.read(1000000))
+                  print("HTTP status:", response.status)
+
+              candidates = result.get("candidates", [])
+              has_text = any(
+                  part.get("text") and not part.get("thought")
+                  for candidate in candidates
+                  for part in candidate.get("content", {}).get("parts", [])
+              )
+
+              print("Generated text:", bool(has_text))
+              sys.exit(0 if has_text else 1)
+
+          except urllib.error.HTTPError as error:
+              print("HTTP status:", error.code)
+              try:
+                  body = json.loads(error.read(100000))
+                  status = body.get("error", {}).get("status")
+                  allowed = {
+                      "INVALID_ARGUMENT",
+                      "UNAUTHENTICATED",
+                      "PERMISSION_DENIED",
+                      "NOT_FOUND",
+                      "RESOURCE_EXHAUSTED",
+                      "FAILED_PRECONDITION",
+                      "INTERNAL",
+                      "UNAVAILABLE",
+                      "DEADLINE_EXCEEDED",
+                  }
+                  print(
+                      "Google status:",
+                      status if status in allowed else "unavailable",
+                  )
+              except Exception:
+                  print("No structured error status.")
+              sys.exit(1)
+
+          except Exception as error:
+              print("Connection error type:", type(error).__name__)
+              sys.exit(1)
+          PY
