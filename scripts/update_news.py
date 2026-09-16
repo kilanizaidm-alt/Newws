@@ -1,7 +1,7 @@
 """Daily English-Arabic news translation classroom.
 
 Uses publisher reporting and a separately reviewed model translation.
-Requires a Gemini project with billing disabled.
+Uses the free-only OpenRouter route; no paid fallback.
 """
 
 import concurrent.futures
@@ -355,60 +355,36 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 
 def generate(key, prompt):
     payload = {
-        "systemInstruction": {
-            "parts": [{"text": SYSTEM}]
-        },
-        "contents": [
-            {"parts": [{"text": prompt}]}
+        "model": "openrouter/free",
+        "messages": [
+            {"role": "system", "content": SYSTEM},
+            {"role": "user", "content": prompt},
         ],
-        "generationConfig": {
-            "temperature": 0.2,
-            "maxOutputTokens": 16000,
-            "responseMimeType": "application/json",
-        },
+        "max_tokens": 20000,
+        "response_format": {"type": "json_object"},
     }
-
     request = urllib.request.Request(
-        (
-            "https://generativelanguage.googleapis.com/"
-            f"v1beta/models/{MODEL}:generateContent"
-        ),
-        data=json.dumps(
-            payload, ensure_ascii=False
-        ).encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "x-goog-api-key": key,
-        },
+        "https://openrouter.ai/api/v1/chat/completions",
+        data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+        headers={"Content-Type": "application/json", "Authorization": "Bearer " + key},
         method="POST",
     )
-
-    opener = urllib.request.build_opener(NoRedirect())
-
-    # No retries, paid fallback, or credential-bearing redirects.
-    with opener.open(request, timeout=150) as response:
+    with urllib.request.build_opener(NoRedirect()).open(request, timeout=240) as response:
         raw = response.read(LIMIT + 1)
-
     if len(raw) > LIMIT:
-        raise ValueError("Model response exceeds size limit")
-
+        raise ValueError("Response exceeds size limit")
     result = json.loads(raw)
-    candidates = result.get("candidates", [])
-
-    if (
-        not candidates
-        or candidates[0].get("finishReason") != "STOP"
-    ):
-        raise ValueError("Model response incomplete or blocked")
-
-    text = "".join(
-        part.get("text", "")
-        for part in candidates[0].get(
-            "content", {}
-        ).get("parts", [])
-        if not part.get("thought")
-    )
-
+    choices = result.get("choices", [])
+    if result.get("error") or not choices:
+        raise ValueError("Provider returned no completion")
+    reason = choices[0].get("finish_reason")
+    if reason != "stop":
+        print("Completion stopped:", reason if reason in ("length", "content_filter", "error") else "unknown")
+        raise ValueError("Incomplete response")
+    text = choices[0].get("message", {}).get("content")
+    if not isinstance(text, str) or key in text:
+        raise ValueError("Invalid content")
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip())
     return json.loads(text)
 
 
@@ -652,14 +628,14 @@ def publish(lesson, now):
 def main():
     global STAGE
 
-    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    key = os.environ.get("OPENROUTER_API_KEY", "").strip()
 
     if (
         not key
         or os.environ.get("FREE_TIER_CONFIRMED") != "true"
     ):
         print(
-            "Updater not activated. Set GEMINI_API_KEY and "
+            "Updater not activated. Set OPENROUTER_API_KEY and "
             "FREE_TIER_CONFIRMED=true. Existing lesson retained."
         )
         return
@@ -694,7 +670,7 @@ def main():
         ensure_ascii=False,
     )
 
-    STAGE = "Gemini lesson generation"
+    STAGE = "OpenRouter lesson generation"
     print(STAGE, flush=True)
 
     draft = generate(
@@ -707,7 +683,7 @@ def main():
     print(STAGE, flush=True)
     validate(draft, sources)
 
-    STAGE = "Gemini translation review"
+    STAGE = "OpenRouter translation review"
     print(STAGE, flush=True)
 
     review = generate(

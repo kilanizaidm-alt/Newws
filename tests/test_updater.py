@@ -59,7 +59,7 @@ class UpdateSafety(unittest.TestCase):
             folder = Path(tmp)
             original = '{"demo":true,"stories":[]}'
             (folder / "latest.json").write_text(original)
-            with patch.object(updater, "DATA", folder), patch.dict("os.environ", {"GEMINI_API_KEY": "test-only-key", "FREE_TIER_CONFIRMED": "true"}), patch.object(updater, "collect_sources", return_value=(self.sources, [])), patch.object(updater, "generate", side_effect=[self.lesson, {"approved": False}]):
+            with patch.object(updater, "DATA", folder), patch.dict("os.environ", {"OPENROUTER_API_KEY": "test-only-key", "FREE_TIER_CONFIRMED": "true"}), patch.object(updater, "collect_sources", return_value=(self.sources, [])), patch.object(updater, "generate", side_effect=[self.lesson, {"approved": False}]):
                 with self.assertRaises(ValueError): updater.main()
             self.assertEqual((folder / "latest.json").read_text(), original)
 
@@ -67,7 +67,7 @@ class UpdateSafety(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             folder = Path(tmp)
             (folder / "latest.json").write_text(json.dumps({"demo": False, "generated_at": datetime.now(timezone.utc).isoformat()}))
-            with patch.object(updater, "DATA", folder), patch.dict("os.environ", {"GEMINI_API_KEY": "test-only-key", "FREE_TIER_CONFIRMED": "true"}), patch.object(updater, "generate") as generate, patch.object(updater, "collect_sources") as fetch:
+            with patch.object(updater, "DATA", folder), patch.dict("os.environ", {"OPENROUTER_API_KEY": "test-only-key", "FREE_TIER_CONFIRMED": "true"}), patch.object(updater, "generate") as generate, patch.object(updater, "collect_sources") as fetch:
                 updater.main(); generate.assert_not_called(); fetch.assert_not_called()
 
     def test_archive_and_latest_are_updated_together(self):
