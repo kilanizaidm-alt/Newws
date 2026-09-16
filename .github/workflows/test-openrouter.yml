@@ -9,7 +9,7 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 6
     steps:
       - name: Test free model translation and glossary
         env:
@@ -32,7 +32,7 @@ jobs:
                     'complete sentence from it. Include contextual explanations and a specific translation teaching note. '
                     'Do not claim external or human verification. TEXT: ' + source)
           payload = {'model':'openrouter/free','messages':[{'role':'user','content':prompt}],
-                     'max_tokens':4000,'response_format':{'type':'json_object'}}
+                     'max_tokens':12000,'response_format':{'type':'json_object'}}
           class NoRedirect(urllib.request.HTTPRedirectHandler):
               def redirect_request(self, *args, **kwargs):
                   return None
@@ -40,7 +40,7 @@ jobs:
               data=json.dumps(payload).encode(), method='POST',
               headers={'Content-Type':'application/json','Authorization':'Bearer '+key})
           try:
-              with urllib.request.build_opener(NoRedirect()).open(request, timeout=180) as response:
+              with urllib.request.build_opener(NoRedirect()).open(request, timeout=240) as response:
                   raw = response.read(1000001)
               if len(raw)>1000000:
                   raise ValueError('Oversized response')
@@ -50,7 +50,10 @@ jobs:
                   sys.exit(1)
               choice=result['choices'][0]
               if choice.get('finish_reason')!='stop':
-                  print('Model did not complete the response. No publication performed.')
+                  reason = choice.get('finish_reason')
+                  allowed = ('length', 'content_filter', 'tool_calls', 'error')
+                  print('Model stopped:', reason if reason in allowed else 'unknown')
+                  print('No publication performed.')
                   sys.exit(1)
               text=choice['message']['content'].strip()
               if key in text:
