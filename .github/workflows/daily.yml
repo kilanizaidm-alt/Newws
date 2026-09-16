@@ -1,0 +1,68 @@
+name: Daily classroom edition
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: classroom-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Unpack classroom files
+        run: |
+          test "$(git hash-object News-Translation-Classroom.zip)" = "18633affaa8b0a95b4dcbdd4f08a801fdb1a7634"
+          unzip -n News-Translation-Classroom.zip -x '.github/*'
+
+      - name: Check lesson updater
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Update news when activated
+        id: refresh
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
+        run: python3 scripts/update_news.py
+
+      - name: Save classroom files and lessons
+        run: |
+          git config user.name 'Classroom publisher'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add web scripts tests START-HERE.md .gitignore
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update classroom website'
+            git push origin HEAD:main
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: web
+          retention-days: 1
+
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Report unsuccessful news refresh
+        if: steps.refresh.outcome == 'failure'
+        run: exit 1
