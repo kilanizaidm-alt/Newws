@@ -353,14 +353,15 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
         return None
 
 
-def generate(key, prompt):
+def generate(key, prompt, system=None):
     payload = {
         "model": "openrouter/free",
         "messages": [
-            {"role": "system", "content": SYSTEM},
+            {"role": "system", "content": system or SYSTEM},
             {"role": "user", "content": prompt},
         ],
-        "max_tokens": 20000,
+        "max_tokens": 6000,
+        "reasoning": {"effort": "low"},
         "response_format": {"type": "json_object"},
     }
     request = urllib.request.Request(
@@ -661,71 +662,11 @@ def main():
     print(STAGE, flush=True)
     sources, failures = collect_sources(now)
 
-    context = json.dumps(
-        {
-            "now_utc": now.isoformat(),
-            "format": FORMAT,
-            "reports": sources,
-        },
-        ensure_ascii=False,
-    )
-
-    STAGE = "OpenRouter lesson generation"
-    print(STAGE, flush=True)
-
-    draft = generate(
-        key,
-        "Create the lesson using this evidence and format:\n"
-        + context,
-    )
-
-    STAGE = "validating the draft"
-    print(STAGE, flush=True)
-    validate(draft, sources)
-
-    STAGE = "OpenRouter translation review"
-    print(STAGE, flush=True)
-
-    review = generate(
-        key,
-        (
-            "Review the draft against the reports. Correct "
-            "unsupported facts, attribution, dates, unnatural "
-            "Arabic, literal translations and glossary examples. "
-            "Check that every Arabic reference concerns the same "
-            "event; remove mismatches. Return "
-            '{"approved": true, "lesson": <complete corrected lesson>} '
-            "only if supportable. Otherwise return "
-            '{"approved": false, "reason": "brief reason"}. '
-            "Do not approve simply because the draft asserts "
-            "something.\n"
-        )
-        + context
-        + "\nDRAFT:\n"
-        + json.dumps(draft, ensure_ascii=False),
-    )
-
-    if not isinstance(review, dict):
-        raise ValueError("Invalid review response")
-
-    if review.get("approved") is not True:
-        raise ValueError("Review did not approve publication")
-
-    STAGE = "validating the reviewed lesson"
-    print(STAGE, flush=True)
-
-    public = prepare_public(
-        review["lesson"], sources, now, failures
-    )
-
-    STAGE = "saving the reviewed lesson"
-    print(STAGE, flush=True)
+    from chunked_lesson import build
+    lesson = build(key, sources, now)
+    public = prepare_public(lesson, sources, now, failures)
     publish(public, now)
-
-    print(
-        "Published one source-linked edition after AI review. "
-        "No human verification claimed."
-    )
+    print("Published complete lesson with reviewed contextual glossary.", flush=True)
 
 
 if __name__ == "__main__":

@@ -59,7 +59,7 @@ class UpdateSafety(unittest.TestCase):
             folder = Path(tmp)
             original = '{"demo":true,"stories":[]}'
             (folder / "latest.json").write_text(original)
-            with patch.object(updater, "DATA", folder), patch.dict("os.environ", {"OPENROUTER_API_KEY": "test-only-key", "FREE_TIER_CONFIRMED": "true"}), patch.object(updater, "collect_sources", return_value=(self.sources, [])), patch.object(updater, "generate", side_effect=[self.lesson, {"approved": False}]):
+            with patch.object(updater, "DATA", folder), patch.dict("os.environ", {"OPENROUTER_API_KEY": "test-only-key", "FREE_TIER_CONFIRMED": "true"}), patch.object(updater, "collect_sources", return_value=(self.sources, [])), patch("chunked_lesson.build", side_effect=ValueError("Review rejected")):
                 with self.assertRaises(ValueError): updater.main()
             self.assertEqual((folder / "latest.json").read_text(), original)
 

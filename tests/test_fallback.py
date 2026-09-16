@@ -28,6 +28,22 @@ class FallbackTests(unittest.TestCase):
             f.main()
             self.assertTrue((Path(tmp)/'reports.json').exists())
             self.assertEqual(json.loads((Path(tmp)/'refresh-status.json').read_text())['lesson_status'],'unavailable')
+    def test_unmatched_glossary_example_rejected(self):
+        import chunked_lesson as c
+        story={k:'test' for k in c.u.FORMAT['stories'][0]}
+        story.update(summary_en=' '.join(['word']*60),english_source_ids=['S1'],arabic_source_ids=[])
+        term={k:'test' for k in c.u.FORMAT['glossary'][0]}
+        with self.assertRaises(ValueError):
+            c.story_check({'story':story,'glossary':[term]*4},{'id':'S1'},[])
+    def test_rejected_story_stops_assembly(self):
+        import chunked_lesson as c
+        sources=[dict(id='S'+str(i),title='Test',language='en',published_at=self.now.isoformat(),text='Evidence') for i in range(5)]
+        def fake(key,prompt,system=None):
+            if prompt.startswith('Select five'):return {'ids':[s['id'] for s in sources]}
+            if prompt.startswith('Review meaning'):return {'approved':False}
+            return {'story':{},'glossary':[]}
+        with patch.object(c.u,'generate',side_effect=fake):
+            with self.assertRaises(ValueError):c.build('placeholder',sources,self.now)
     def test_static_bank_has_eighteen_complete_entries(self):
         bank=json.loads((Path(__file__).resolve().parents[1]/'web/data/glossary-bank.json').read_text())
         self.assertEqual(len(bank['entries']),18)
