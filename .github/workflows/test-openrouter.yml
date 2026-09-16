@@ -1,0 +1,86 @@
+name: Test OpenRouter classroom
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/test-openrouter.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Test free model translation and glossary
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, sys, urllib.request, urllib.error, html
+          key = os.environ.get('OPENROUTER_API_KEY', '').strip()
+          if not key:
+              print('Missing OPENROUTER_API_KEY secret.')
+              sys.exit(1)
+          source = ('Officials said a proposed ceasefire could allow humanitarian aid to reach isolated towns. '
+                    'Talks were continuing, and no agreement had been signed. '
+                    'The estimated cost of repairs remained uncertain.')
+          prompt = ('This is FICTIONAL practice text, not news. Translate it faithfully into natural Modern Standard Arabic. '
+                    'Preserve attribution, uncertainty and negation. Return JSON only: '
+                    '{"translation_ar":"...","glossary":[{"english":"...","arabic":"...",'
+                    '"meaning_ar":"...","example_en":"...","example_ar":"...","note_ar":"..."}]}. '
+                    'Give exactly five different terms taken verbatim from the text; each example_en must be an exact '
+                    'complete sentence from it. Include contextual explanations and a specific translation teaching note. '
+                    'Do not claim external or human verification. TEXT: ' + source)
+          payload = {'model':'openrouter/free','messages':[{'role':'user','content':prompt}],
+                     'max_tokens':4000,'response_format':{'type':'json_object'}}
+          class NoRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self, *args, **kwargs):
+                  return None
+          request = urllib.request.Request('https://openrouter.ai/api/v1/chat/completions',
+              data=json.dumps(payload).encode(), method='POST',
+              headers={'Content-Type':'application/json','Authorization':'Bearer '+key})
+          try:
+              with urllib.request.build_opener(NoRedirect()).open(request, timeout=180) as response:
+                  raw = response.read(1000001)
+              if len(raw)>1000000:
+                  raise ValueError('Oversized response')
+              result=json.loads(raw)
+              if 'error' in result:
+                  print('OpenRouter returned an API error. No response body logged.')
+                  sys.exit(1)
+              choice=result['choices'][0]
+              if choice.get('finish_reason')!='stop':
+                  print('Model did not complete the response. No publication performed.')
+                  sys.exit(1)
+              text=choice['message']['content'].strip()
+              if key in text:
+                  raise ValueError('Unexpected sensitive output')
+              text=re.sub(r'^```(?:json)?\s*|\s*```$', '', text)
+              data=json.loads(text)
+              assert isinstance(data['translation_ar'],str) and re.search('[\u0600-\u06ff]',data['translation_ar'])
+              assert isinstance(data['glossary'],list) and len(data['glossary'])==5
+              seen=set()
+              for term in data['glossary']:
+                  assert all(isinstance(term.get(k),str) and 0<len(term[k])<2000 for k in
+                             ('english','arabic','meaning_ar','example_en','example_ar','note_ar'))
+                  word=term['english'].casefold()
+                  assert word not in seen and word in term['example_en'].casefold()
+                  assert term['example_en'] in source
+                  assert re.search('[\u0600-\u06ff]',term['arabic'])
+                  seen.add(word)
+              output=['# OpenRouter test: connection and format passed',
+                      'Fictional practice only. Arabic quality still requires review; this is not a published lesson.',
+                      source, data['translation_ar']]
+              for term in data['glossary']:
+                  output.extend([term[k] for k in ('english','arabic','meaning_ar','example_en','example_ar','note_ar')])
+              with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as summary:
+                  summary.write('\n\n'.join('<p>'+html.escape(s)+'</p>' for s in output))
+              print('PASS: free-model response, Arabic translation, five terms with source-matched examples.')
+          except urllib.error.HTTPError as error:
+              print('OpenRouter HTTP status:',error.code)
+              sys.exit(1)
+          except Exception as error:
+              print('Test failed:',type(error).__name__, '(no keys or response bodies logged)')
+              sys.exit(1)
+          PY
+
