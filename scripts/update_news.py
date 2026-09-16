@@ -242,7 +242,7 @@ def main():
     review = generate(key, "Review the draft against the reports. Correct unsupported facts, attribution, dates, unnatural Arabic, misleading literal translations and glossary examples. Check every proposed Arabic reference actually concerns the same event; remove mismatches. Return {\"approved\": true, \"lesson\": <complete corrected lesson>} only if the result is supportable. Otherwise return {\"approved\": false, \"reason\": \"brief reason\"}. Do not approve merely because the draft asserts something.\n" + context + "\nDRAFT:\n" + json.dumps(draft, ensure_ascii=False))
     if review.get("approved") is not True: raise ValueError("Review did not approve a publishable lesson")
     public = prepare_public(review["lesson"], sources, now, failures)
-    publish(public, now)
+    line = getattr(error, "code", "unknown")
     print("Published one source-linked edition after generation and AI review. No human verification claimed.")
 
 
