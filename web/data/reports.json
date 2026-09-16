@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-16T15:26:28.037217+00:00",
-  "window_start": "2026-09-13T15:26:28.037217+00:00",
+  "fetched_at": "2026-09-16T15:52:39.274732+00:00",
+  "window_start": "2026-09-13T15:52:39.274732+00:00",
   "reports": [
+    {
+      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his assassination",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-16T15:33:19+00:00"
+    },
     {
       "title": "Eight German state premiers back Merz amid speculation over future",
       "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
@@ -52,6 +59,41 @@
       "published_at": "2026-09-16T12:26:00+00:00"
     },
     {
+      "title": "AI, climate and conflicts top Guterres’s agenda ahead of General Assembly",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168348",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
+      "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168347",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
+      "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
+      "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
+      "title": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168344",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
       "title": "مأساة جديدة تحل بغزة إثر انهيار مبنى كان يؤوي نحو 100 شخص",
       "url": "https://news.un.org/feed/view/ar/story/2026/09/1145338",
       "publisher": "UN News",
@@ -73,11 +115,39 @@
       "published_at": "2026-09-16T11:02:54+00:00"
     },
     {
-      "title": "South African president vows justice as more women's bodies found near Johannesburg",
-      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168343",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-09-16T10:44:02+00:00"
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "title": "UNICEF says thousands of children require mental health support after Nepal floods",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168340",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "title": "Escalating conflict drives new displacement in Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168339",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "title": "Ebola responders grapple with widening outbreak in DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168338",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168337",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-15T12:00:00+00:00"
     },
     {
       "title": "في مجلس الأمن، تأكيد أممي على ضرورة حماية أمن البحر الأحمر وحرية الملاحة في باب المندب",
@@ -143,7 +213,5 @@
       "published_at": "2026-09-14T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (en)"
-  ]
+  "failed_feeds": []
 }
