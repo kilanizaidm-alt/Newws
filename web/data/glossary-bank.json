@@ -1,0 +1,186 @@
+{
+  "reviewed_at": "2026-09-16",
+  "note": "قاموس تدريبي ثابت: الأمثلة تعليمية مبتكرة وليست أخبار اليوم. ترجمة تعليمية مراجَعة بواسطة الذكاء الاصطناعي للمعنى والأسلوب، وليست مراجعة بشرية. لم يتوافر تحقق خارجي من المراجع لهذه النسخة.",
+  "entries": [
+    {
+      "english": "ceasefire",
+      "arabic": "وقف إطلاق النار",
+      "part_of_speech": "noun",
+      "meaning_ar": "اتفاق أو إجراء لوقف القتال؛ لا يعني بالضرورة انتهاء النزاع.",
+      "example_en": "A ceasefire could allow aid to reach isolated towns.",
+      "example_ar": "قد يتيح وقف إطلاق النار وصول المساعدات إلى البلدات المعزولة.",
+      "collocations": "ceasefire agreement — اتفاق لوقف إطلاق النار; ceasefire violation — انتهاك وقف إطلاق النار",
+      "translation_note_ar": "حافظ على could: الاحتمال لا يعني أن المساعدات وصلت."
+    },
+    {
+      "english": "talks",
+      "arabic": "محادثات",
+      "part_of_speech": "plural noun",
+      "meaning_ar": "لقاءات لتبادل المواقف؛ وقد تكون مفاوضات إذا كان الهدف التوصل إلى اتفاق.",
+      "example_en": "The talks ended without an agreement.",
+      "example_ar": "انتهت المحادثات من دون التوصل إلى اتفاق.",
+      "collocations": "resume talks — يستأنف المحادثات; peace talks — محادثات السلام",
+      "translation_note_ar": "لا تحوّل المحادثات إلى اتفاق، ولا تحذف النفي."
+    },
+    {
+      "english": "counterpart",
+      "arabic": "نظير",
+      "part_of_speech": "noun",
+      "meaning_ar": "مسؤول يشغل منصبًا مماثلًا لمنصب مسؤول آخر.",
+      "example_en": "The minister met her counterpart to discuss trade.",
+      "example_ar": "التقت الوزيرة نظيرها لبحث التجارة.",
+      "collocations": "foreign counterpart — نظير أجنبي; meet a counterpart — يلتقي نظيره",
+      "translation_note_ar": "اضبط التذكير والتأنيث وفق هوية المسؤول؛ الكلمة لا تحدد الجنس."
+    },
+    {
+      "english": "alleged",
+      "arabic": "مزعوم / يُشتبه في وقوعه",
+      "part_of_speech": "adjective",
+      "meaning_ar": "وصف لواقعة لم تثبت بعد؛ يتحدد المقابل بحسب السياق القانوني والإخباري.",
+      "example_en": "Investigators examined the alleged violations.",
+      "example_ar": "فحص المحققون الانتهاكات المزعومة.",
+      "collocations": "alleged violations — انتهاكات مزعومة; alleged involvement — تورّط مزعوم",
+      "translation_note_ar": "لا تترجم alleged بما يثبت الإدانة. ويمكن استعمال «ما قيل إنها انتهاكات» بحسب نسبة الادعاء."
+    },
+    {
+      "english": "according to",
+      "arabic": "بحسب / وفقًا لـ",
+      "part_of_speech": "prepositional phrase",
+      "meaning_ar": "تربط المعلومة بالجهة التي أوردتها.",
+      "example_en": "According to local officials, repairs may take several weeks.",
+      "example_ar": "بحسب مسؤولين محليين، قد تستغرق الإصلاحات عدة أسابيع.",
+      "collocations": "according to officials — بحسب مسؤولين; according to estimates — وفقًا للتقديرات",
+      "translation_note_ar": "نسبة المعلومة إلى مصدرها ليست إثباتًا مستقلًا لصحتها."
+    },
+    {
+      "english": "estimated",
+      "arabic": "تقديري / يُقدَّر بـ",
+      "part_of_speech": "adjective",
+      "meaning_ar": "يدل على أن الرقم تقدير، لا حصيلة مؤكدة.",
+      "example_en": "An estimated 200 residents needed temporary shelter.",
+      "example_ar": "احتاج نحو 200 من السكان، بحسب التقديرات، إلى مأوى مؤقت.",
+      "collocations": "estimated cost — تكلفة تقديرية; estimated number — عدد تقديري",
+      "translation_note_ar": "لا تسقط صفة التقدير عند نقل الأرقام."
+    },
+    {
+      "english": "displaced people",
+      "arabic": "نازحون",
+      "part_of_speech": "noun phrase",
+      "meaning_ar": "أشخاص اضطروا إلى مغادرة منازلهم؛ لا تثبت العبارة وحدها عبور حدود دولية.",
+      "example_en": "Displaced people need safe shelter and clean water.",
+      "example_ar": "يحتاج النازحون إلى مأوى آمن ومياه نظيفة.",
+      "collocations": "internally displaced people — نازحون داخليًا; displaced families — أسر نازحة",
+      "translation_note_ar": "لا تستبدل «النازحين» بـ«اللاجئين» تلقائيًا؛ الوضع والسياق مهمان."
+    },
+    {
+      "english": "humanitarian aid",
+      "arabic": "مساعدات إنسانية",
+      "part_of_speech": "noun phrase",
+      "meaning_ar": "مساعدات لتلبية احتياجات الأشخاص المتضررين من الأزمات.",
+      "example_en": "The proposal would allow more humanitarian aid to enter.",
+      "example_ar": "من شأن المقترح أن يتيح إدخال مزيد من المساعدات الإنسانية.",
+      "collocations": "deliver humanitarian aid — يوصل مساعدات إنسانية; humanitarian aid convoy — قافلة مساعدات إنسانية",
+      "translation_note_ar": "would هنا يصف أثرًا متوقعًا للمقترح، لا دخول المساعدات بالفعل."
+    },
+    {
+      "english": "casualties",
+      "arabic": "قتلى وجرحى / ضحايا",
+      "part_of_speech": "plural noun",
+      "meaning_ar": "قد تشمل الكلمة القتلى والجرحى؛ يجب التحقق من تعريف الحصيلة في المصدر.",
+      "example_en": "The report did not give a confirmed number of casualties.",
+      "example_ar": "لم يورد التقرير عددًا مؤكّدًا للقتلى والجرحى.",
+      "collocations": "civilian casualties — ضحايا مدنيون; casualty figures — أعداد القتلى والجرحى",
+      "translation_note_ar": "لا تترجم casualties إلى «وفيات» إلا إذا حدّد المصدر ذلك."
+    },
+    {
+      "english": "tariffs",
+      "arabic": "رسوم جمركية",
+      "part_of_speech": "plural noun",
+      "meaning_ar": "رسوم تفرض على سلع عند انتقالها عبر الحدود.",
+      "example_en": "The agreement would reduce tariffs on agricultural goods.",
+      "example_ar": "من شأن الاتفاق أن يخفض الرسوم الجمركية على السلع الزراعية.",
+      "collocations": "impose tariffs — يفرض رسومًا جمركية; remove tariffs — يلغي الرسوم الجمركية",
+      "translation_note_ar": "في أخبار التجارة، لا تعني tariffs أسعار السلع أو أجور الخدمات."
+    },
+    {
+      "english": "inflation",
+      "arabic": "تضخّم",
+      "part_of_speech": "noun",
+      "meaning_ar": "ارتفاع عام في مستوى الأسعار؛ انخفاض معدله لا يعني بالضرورة انخفاض الأسعار.",
+      "example_en": "Lower inflation does not necessarily mean lower prices.",
+      "example_ar": "لا يعني تراجع التضخّم بالضرورة انخفاض الأسعار.",
+      "collocations": "annual inflation — التضخّم السنوي; inflation rate — معدّل التضخّم",
+      "translation_note_ar": "فرّق بين تباطؤ ارتفاع الأسعار وتراجع مستواها."
+    },
+    {
+      "english": "interest rates",
+      "arabic": "أسعار الفائدة",
+      "part_of_speech": "noun phrase",
+      "meaning_ar": "نسب مرتبطة بتكلفة الاقتراض أو عائد الإيداع بحسب السياق.",
+      "example_en": "The bank may keep interest rates unchanged.",
+      "example_ar": "قد يُبقي البنك أسعار الفائدة دون تغيير.",
+      "collocations": "raise interest rates — يرفع أسعار الفائدة; cut interest rates — يخفض أسعار الفائدة",
+      "translation_note_ar": "حافظ على may ولا تجعل التوقع قرارًا صدر بالفعل."
+    },
+    {
+      "english": "supply chains",
+      "arabic": "سلاسل الإمداد",
+      "part_of_speech": "noun phrase",
+      "meaning_ar": "مراحل وشبكات توفير المواد وإنتاج السلع ونقلها.",
+      "example_en": "The closure could disrupt supply chains.",
+      "example_ar": "قد يؤدي الإغلاق إلى اضطراب سلاسل الإمداد.",
+      "collocations": "global supply chains — سلاسل الإمداد العالمية; supply chain disruption — اضطراب سلاسل الإمداد",
+      "translation_note_ar": "disrupt لا تعني دائمًا توقفًا كاملًا؛ «اضطراب» أدق عند غياب دليل على الانقطاع."
+    },
+    {
+      "english": "ratification",
+      "arabic": "تصديق",
+      "part_of_speech": "noun",
+      "meaning_ar": "إجراء رسمي للموافقة على اتفاق؛ يختلف عن توقيعه وعن دخوله حيز النفاذ.",
+      "example_en": "The agreement still requires ratification.",
+      "example_ar": "لا يزال الاتفاق يتطلب التصديق عليه.",
+      "collocations": "ratification process — إجراءات التصديق; pending ratification — بانتظار التصديق",
+      "translation_note_ar": "لا تستبدل التصديق بالتوقيع، فلكل منهما دلالة إجرائية مختلفة."
+    },
+    {
+      "english": "enter into force",
+      "arabic": "يدخل حيّز النفاذ",
+      "part_of_speech": "verb phrase",
+      "meaning_ar": "يبدأ سريان اتفاق أو تشريع وفق الشروط المحددة فيه.",
+      "example_en": "The treaty will enter into force after both sides complete the required procedures.",
+      "example_ar": "ستدخل المعاهدة حيّز النفاذ بعد استكمال الطرفين الإجراءات المطلوبة.",
+      "collocations": "entry into force — دخول حيّز النفاذ; date of entry into force — تاريخ بدء النفاذ",
+      "translation_note_ar": "حافظ على شرط استكمال الإجراءات؛ الإعلان وحده لا يثبت بدء النفاذ."
+    },
+    {
+      "english": "forecast",
+      "arabic": "توقّع",
+      "part_of_speech": "noun",
+      "meaning_ar": "تقدير لما قد يحدث مستقبلًا اعتمادًا على معلومات أو نماذج.",
+      "example_en": "The forecast suggests that rainfall could increase.",
+      "example_ar": "تشير التوقعات إلى احتمال زيادة هطول الأمطار.",
+      "collocations": "weather forecast — توقعات الطقس; growth forecast — توقعات النمو",
+      "translation_note_ar": "لا تعرض forecast بوصفه نتيجة مؤكدة أو حدثًا وقع بالفعل."
+    },
+    {
+      "english": "evacuation",
+      "arabic": "إجلاء / إخلاء",
+      "part_of_speech": "noun",
+      "meaning_ar": "نقل أشخاص من منطقة خطر، أو إخلاء مكان؛ يتحدد المقابل بحسب المفعول.",
+      "example_en": "Officials ordered the evacuation of residents from low-lying areas.",
+      "example_ar": "أمر المسؤولون بإجلاء السكان من المناطق المنخفضة.",
+      "collocations": "evacuation order — أمر بالإجلاء; evacuation centre — مركز لإيواء المُجلَين",
+      "translation_note_ar": "عادة نُجلي الأشخاص ونُخلي المباني؛ وصدور الأمر لا يثبت اكتمال العملية."
+    },
+    {
+      "english": "respiratory illnesses",
+      "arabic": "أمراض تنفسية",
+      "part_of_speech": "noun phrase",
+      "meaning_ar": "أمراض تصيب الجهاز التنفسي؛ لا تعني كل أعراض صعوبة التنفس تشخيصًا لمرض.",
+      "example_en": "The study examined respiratory illnesses in the affected area.",
+      "example_ar": "بحثت الدراسة الأمراض التنفسية في المنطقة المتضررة.",
+      "collocations": "respiratory symptoms — أعراض تنفسية; respiratory system — الجهاز التنفسي",
+      "translation_note_ar": "لا تضف علاقة سببية بين التلوث والمرض إذا كان المصدر يذكر ارتباطًا فقط."
+    }
+  ]
+}
