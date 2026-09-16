@@ -252,3 +252,4 @@ if __name__ == "__main__":
         # Never print API responses, headers or keys into workflow logs.
         print(f"Update stopped ({type(error).__name__}); the last successful public edition remains unchanged.", file=sys.stderr)
         sys.exit(1)
+        
