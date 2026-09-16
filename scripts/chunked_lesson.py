@@ -42,6 +42,8 @@ def story_check(part, primary, sources):
 
 
 def build(key,sources,now):
+    from openrouter_transport import verify_free_model
+    verify_free_model()
     # Choose diverse events from short metadata before sending individual reports.
     metadata=[{k:s[k] for k in ('id','title','language','published_at')} for s in sources]
     selection=u.generate(key,'Select five distinct events across regions/topics, preferring last 24 hours. '

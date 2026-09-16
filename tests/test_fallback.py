@@ -42,8 +42,28 @@ class FallbackTests(unittest.TestCase):
             if prompt.startswith('Select five'):return {'ids':[s['id'] for s in sources]}
             if prompt.startswith('Review meaning'):return {'approved':False}
             return {'story':{},'glossary':[]}
-        with patch.object(c.u,'generate',side_effect=fake):
+        with patch.object(c.u,'generate',side_effect=fake), patch('openrouter_transport.verify_free_model',return_value=True):
             with self.assertRaises(ValueError):c.build('placeholder',sources,self.now)
+    def test_paid_catalog_model_is_rejected(self):
+        import openrouter_transport as t
+        import io
+        t.verify_free_model.cache_clear()
+        model={'id':t.MODEL,'pricing':{'prompt':'0.001','completion':'0'},'reasoning':{'supported_efforts':['none']}}
+        with patch.object(t.urllib.request,'build_opener') as opener:
+            opener.return_value.open.return_value=io.BytesIO(json.dumps({'data':[model]}).encode())
+            with self.assertRaises(ValueError):t.verify_free_model()
+        t.verify_free_model.cache_clear()
+    def test_wall_timeout_is_bounded(self):
+        import openrouter_transport as t
+        with patch.object(t,'verify_free_model',return_value=True), patch.object(t.subprocess,'run',side_effect=t.subprocess.TimeoutExpired('worker',180)):
+            with self.assertRaisesRegex(ValueError,'request_wall_timeout'):
+                t.generate('test-only','test','system')
+    def test_completed_json_is_parsed(self):
+        import openrouter_transport as t
+        from types import SimpleNamespace
+        result=SimpleNamespace(stdout=json.dumps({'finish':'stop','content':'{"ok": true}','completion_tokens':10}))
+        with patch.object(t,'verify_free_model',return_value=True), patch.object(t.subprocess,'run',return_value=result):
+            self.assertEqual(t.generate('test-only','test','system'),{'ok':True})
     def test_static_bank_has_eighteen_complete_entries(self):
         bank=json.loads((Path(__file__).resolve().parents[1]/'web/data/glossary-bank.json').read_text())
         self.assertEqual(len(bank['entries']),18)

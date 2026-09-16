@@ -3,6 +3,7 @@ import concurrent.futures
 from datetime import datetime, timezone, timedelta
 import json
 import urllib.error
+import traceback
 import update_news as u
 
 
@@ -67,7 +68,10 @@ def main():
         # No response bodies, credentials, or external messages in logs/data.
         if isinstance(error, urllib.error.HTTPError):
             code = error.code
-        print(f'Optional lesson refresh failed: {type(error).__name__}; HTTP={code}')
+        frames=traceback.extract_tb(error.__traceback__)
+        last=frames[-1] if frames else None
+        location=f'{last.name}:{last.lineno}' if last else 'unknown'
+        print(f'Optional lesson refresh failed: {type(error).__name__}; HTTP={code}; at={location}',flush=True)
     u.atomic_json(u.DATA / 'refresh-status.json', {
         'attempted_at': now.isoformat(), 'lesson_status': status,
         'report_count': count, 'failed_feeds': failed})

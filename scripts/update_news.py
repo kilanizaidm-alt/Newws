@@ -354,39 +354,8 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 
 
 def generate(key, prompt, system=None):
-    payload = {
-        "model": "openrouter/free",
-        "messages": [
-            {"role": "system", "content": system or SYSTEM},
-            {"role": "user", "content": prompt},
-        ],
-        "max_tokens": 6000,
-        "reasoning": {"effort": "low"},
-        "response_format": {"type": "json_object"},
-    }
-    request = urllib.request.Request(
-        "https://openrouter.ai/api/v1/chat/completions",
-        data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
-        headers={"Content-Type": "application/json", "Authorization": "Bearer " + key},
-        method="POST",
-    )
-    with urllib.request.build_opener(NoRedirect()).open(request, timeout=240) as response:
-        raw = response.read(LIMIT + 1)
-    if len(raw) > LIMIT:
-        raise ValueError("Response exceeds size limit")
-    result = json.loads(raw)
-    choices = result.get("choices", [])
-    if result.get("error") or not choices:
-        raise ValueError("Provider returned no completion")
-    reason = choices[0].get("finish_reason")
-    if reason != "stop":
-        print("Completion stopped:", reason if reason in ("length", "content_filter", "error") else "unknown")
-        raise ValueError("Incomplete response")
-    text = choices[0].get("message", {}).get("content")
-    if not isinstance(text, str) or key in text:
-        raise ValueError("Invalid content")
-    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip())
-    return json.loads(text)
+    from openrouter_transport import generate as request
+    return request(key, prompt, system or SYSTEM)
 
 
 def nonempty(value, limit=5000):
