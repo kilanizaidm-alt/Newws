@@ -1,0 +1,162 @@
+{
+  "demo": true,
+  "generated_at": null,
+  "coverage_note": "Fictional examples for translation practice; not current news.",
+  "stories": [
+    {
+      "topic": "Diplomacy",
+      "headline_en": "Delegations resume talks on a draft agreement",
+      "headline_ar": "وفود تستأنف محادثاتها بشأن مشروع اتفاق",
+      "summary_en": "Delegations resumed talks on a draft agreement on Monday. A spokesperson said the negotiations were still at an early stage. Officials expressed cautious optimism but did not announce a deadline. The proposal would establish a joint committee to discuss outstanding issues. Both sides said that any final agreement would require further consultation. No agreement has yet been signed.",
+      "summary_ar": "استأنفت وفود يوم الاثنين محادثاتها بشأن مشروع اتفاق. وقال متحدث إن المفاوضات لا تزال في مرحلة مبكرة. وأعرب مسؤولون عن تفاؤل حذر، من دون إعلان موعد نهائي. ومن شأن المقترح أن ينشئ لجنة مشتركة لبحث المسائل العالقة. وقال الجانبان إن أي اتفاق نهائي سيتطلب مزيدًا من المشاورات. ولم يُوقَّع أي اتفاق حتى الآن.",
+      "translation_note": "“Would establish” describes a proposal, not a completed decision. من شأن المقترح أن ينشئ preserves that distinction.",
+      "published_at": null,
+      "sources": [],
+      "reference_note": "Fictional classroom example, written for this preview; no external news verification claimed."
+    },
+    {
+      "topic": "Economy",
+      "headline_en": "Central bank leaves its benchmark rate unchanged",
+      "headline_ar": "البنك المركزي يُبقي سعر الفائدة الرئيسي دون تغيير",
+      "summary_en": "The central bank left its benchmark rate unchanged after its latest policy meeting. Policymakers said inflationary pressures had eased, although the economic outlook remained uncertain. The bank said it would assess incoming data before making further decisions. Analysts warned that borrowing costs could remain high for several months. The statement did not indicate when the bank might reduce interest rates.",
+      "summary_ar": "أبقى البنك المركزي سعر الفائدة الرئيسي دون تغيير عقب اجتماعه الأخير بشأن السياسة النقدية. وقال صانعو السياسات إن الضغوط التضخمية تراجعت، مع استمرار الغموض بشأن الآفاق الاقتصادية. وأضاف البنك أنه سيقيّم البيانات الواردة قبل اتخاذ قرارات أخرى. وحذّر محللون من أن تكاليف الاقتراض قد تظل مرتفعة لعدة أشهر. ولم يوضح البيان متى قد يخفض البنك أسعار الفائدة.",
+      "translation_note": "“Left unchanged” is أبقى دون تغيير. Translating “left” literally would obscure the policy decision.",
+      "published_at": null,
+      "sources": [],
+      "reference_note": "Fictional classroom example, written for this preview; no external news verification claimed."
+    },
+    {
+      "topic": "Humanitarian affairs",
+      "headline_en": "Aid deliveries resume as access improves",
+      "headline_ar": "استئناف إيصال المساعدات مع تحسّن سبل الوصول",
+      "summary_en": "Aid deliveries resumed after access to several communities improved. Relief workers said a funding shortfall continued to limit their operations. Local teams were assessing humanitarian needs and identifying households requiring urgent support. The agency said the initial deliveries would not meet all requests. It urged donors to provide additional funding and stressed that safe access remained essential for continued assistance.",
+      "summary_ar": "استُؤنف إيصال المساعدات بعد تحسّن سبل الوصول إلى عدد من التجمعات السكانية. وقال عاملون في الإغاثة إن نقص التمويل لا يزال يحدّ من عملياتهم. وكانت فرق محلية تقيّم الاحتياجات الإنسانية وتحدد الأسر التي تحتاج إلى دعم عاجل. وقالت الوكالة إن الدفعات الأولى من المساعدات لن تلبّي جميع الطلبات. وحثّت المانحين على تقديم تمويل إضافي، مشددة على أن الوصول الآمن يظل ضروريًا لاستمرار المساعدة.",
+      "translation_note": "Use وصول آمن for “safe access.” Preserve the agency’s attribution instead of turning its assessment into an unqualified fact.",
+      "published_at": null,
+      "sources": [],
+      "reference_note": "Fictional classroom example, written for this preview; no external news verification claimed."
+    },
+    {
+      "topic": "Environment",
+      "headline_en": "Council seeks public input on flood preparedness",
+      "headline_ar": "مجلس محلي يطلب آراء السكان بشأن التأهب للفيضانات",
+      "summary_en": "The council opened a public consultation on its flood preparedness plan. The proposal includes an early warning system and improvements to drainage networks. Officials said the measures could reduce risks but would not eliminate them. Residents have been invited to submit comments before the final plan is approved. The council has not yet confirmed the total cost or implementation timetable.",
+      "summary_ar": "أطلق المجلس مشاورات عامة بشأن خطته للتأهب للفيضانات. ويتضمن المقترح نظامًا للإنذار المبكر وتحسينات لشبكات تصريف المياه. وقال مسؤولون إن التدابير قد تقلل المخاطر، لكنها لن تقضي عليها. ودُعي السكان إلى تقديم ملاحظاتهم قبل إقرار الخطة النهائية. ولم يؤكد المجلس بعد التكلفة الإجمالية أو الجدول الزمني للتنفيذ.",
+      "translation_note": "“Could reduce” is قد تقلل, not ستقلل: a possible effect is not a guaranteed outcome.",
+      "published_at": null,
+      "sources": [],
+      "reference_note": "Fictional classroom example, written for this preview; no external news verification claimed."
+    },
+    {
+      "topic": "Science & health",
+      "headline_en": "Researchers urge caution over preliminary findings",
+      "headline_ar": "باحثون يدعون إلى الحذر في تفسير نتائج أولية",
+      "summary_en": "Researchers released preliminary findings from a small observational study. They said the results suggested an association but did not establish a causal link. The team called for further research involving a larger sample. Independent specialists noted that the findings had not yet undergone peer review. The researchers said the study should not be used on its own to change clinical practice.",
+      "summary_ar": "نشر باحثون نتائج أولية لدراسة رصدية صغيرة. وقالوا إن النتائج تشير إلى وجود ارتباط، لكنها لا تثبت علاقة سببية. ودعا الفريق إلى إجراء مزيد من البحوث تشمل عينة أكبر. وأشار مختصون مستقلون إلى أن النتائج لم تخضع بعد لمراجعة الأقران. وقال الباحثون إنه ينبغي ألّا تُستخدم الدراسة وحدها لتغيير الممارسة السريرية.",
+      "translation_note": "“Association” (ارتباط) is different from “causal link” (علاقة سببية). Do not translate a correlation into a claim of causation.",
+      "published_at": null,
+      "sources": [],
+      "reference_note": "Fictional classroom example, written for this preview; no external news verification claimed."
+    }
+  ],
+  "glossary": [
+    {
+      "english": "draft agreement",
+      "arabic": "مشروع اتفاق",
+      "example_en": "Delegations resumed talks on a draft agreement on Monday.",
+      "example_ar": "استأنفت وفود يوم الاثنين محادثاتها بشأن مشروع اتفاق."
+    },
+    {
+      "english": "cautious optimism",
+      "arabic": "تفاؤل حذر",
+      "example_en": "Officials expressed cautious optimism but did not announce a deadline.",
+      "example_ar": "أعرب مسؤولون عن تفاؤل حذر، من دون إعلان موعد نهائي."
+    },
+    {
+      "english": "outstanding issues",
+      "arabic": "المسائل العالقة",
+      "example_en": "The proposal would establish a joint committee to discuss outstanding issues.",
+      "example_ar": "من شأن المقترح أن ينشئ لجنة مشتركة لبحث المسائل العالقة."
+    },
+    {
+      "english": "benchmark rate",
+      "arabic": "سعر الفائدة الرئيسي",
+      "example_en": "The central bank left its benchmark rate unchanged after its latest policy meeting.",
+      "example_ar": "أبقى البنك المركزي سعر الفائدة الرئيسي دون تغيير عقب اجتماعه الأخير بشأن السياسة النقدية."
+    },
+    {
+      "english": "inflationary pressures",
+      "arabic": "الضغوط التضخمية",
+      "example_en": "Policymakers said inflationary pressures had eased, although the economic outlook remained uncertain.",
+      "example_ar": "قال صانعو السياسات إن الضغوط التضخمية تراجعت، مع استمرار الغموض بشأن الآفاق الاقتصادية."
+    },
+    {
+      "english": "borrowing costs",
+      "arabic": "تكاليف الاقتراض",
+      "example_en": "Analysts warned that borrowing costs could remain high for several months.",
+      "example_ar": "حذّر محللون من أن تكاليف الاقتراض قد تظل مرتفعة لعدة أشهر."
+    },
+    {
+      "english": "Aid deliveries",
+      "arabic": "إيصال المساعدات",
+      "example_en": "Aid deliveries resumed after access to several communities improved.",
+      "example_ar": "استُؤنف إيصال المساعدات بعد تحسّن سبل الوصول إلى عدد من التجمعات السكانية."
+    },
+    {
+      "english": "funding shortfall",
+      "arabic": "نقص التمويل",
+      "example_en": "Relief workers said a funding shortfall continued to limit their operations.",
+      "example_ar": "قال عاملون في الإغاثة إن نقص التمويل لا يزال يحدّ من عملياتهم."
+    },
+    {
+      "english": "humanitarian needs",
+      "arabic": "الاحتياجات الإنسانية",
+      "example_en": "Local teams were assessing humanitarian needs and identifying households requiring urgent support.",
+      "example_ar": "كانت فرق محلية تقيّم الاحتياجات الإنسانية وتحدد الأسر التي تحتاج إلى دعم عاجل."
+    },
+    {
+      "english": "public consultation",
+      "arabic": "مشاورات عامة",
+      "example_en": "The council opened a public consultation on its flood preparedness plan.",
+      "example_ar": "أطلق المجلس مشاورات عامة بشأن خطته للتأهب للفيضانات."
+    },
+    {
+      "english": "early warning system",
+      "arabic": "نظام للإنذار المبكر",
+      "example_en": "The proposal includes an early warning system and improvements to drainage networks.",
+      "example_ar": "يتضمن المقترح نظامًا للإنذار المبكر وتحسينات لشبكات تصريف المياه."
+    },
+    {
+      "english": "implementation timetable",
+      "arabic": "الجدول الزمني للتنفيذ",
+      "example_en": "The council has not yet confirmed the total cost or implementation timetable.",
+      "example_ar": "لم يؤكد المجلس بعد التكلفة الإجمالية أو الجدول الزمني للتنفيذ."
+    },
+    {
+      "english": "preliminary findings",
+      "arabic": "نتائج أولية",
+      "example_en": "Researchers released preliminary findings from a small observational study.",
+      "example_ar": "نشر باحثون نتائج أولية لدراسة رصدية صغيرة."
+    },
+    {
+      "english": "causal link",
+      "arabic": "علاقة سببية",
+      "example_en": "They said the results suggested an association but did not establish a causal link.",
+      "example_ar": "قالوا إن النتائج تشير إلى وجود ارتباط، لكنها لا تثبت علاقة سببية."
+    },
+    {
+      "english": "peer review",
+      "arabic": "مراجعة الأقران",
+      "example_en": "Independent specialists noted that the findings had not yet undergone peer review.",
+      "example_ar": "أشار مختصون مستقلون إلى أن النتائج لم تخضع بعد لمراجعة الأقران."
+    }
+  ],
+  "exercise": {
+    "english": "Officials said a proposed agreement could improve access to essential services. However, they stressed that outstanding issues remained unresolved. A spokesperson said further talks were expected next week. The proposal has not yet been approved, and no implementation timetable has been announced. Local representatives called for public consultation before a final decision is made.",
+    "arabic": "قال مسؤولون إن اتفاقًا مقترحًا قد يحسّن الوصول إلى الخدمات الأساسية. لكنهم شددوا على أن مسائل عالقة لم تُحسم بعد. وقال متحدث إن من المتوقع إجراء مزيد من المحادثات الأسبوع المقبل. ولم يُقرّ المقترح بعد، ولم يُعلَن جدول زمني للتنفيذ. ودعا ممثلون محليون إلى إجراء مشاورات عامة قبل اتخاذ قرار نهائي.",
+    "tips": [
+      "Preserve uncertainty: “could improve” is قد يحسّن, not سيحسّن.",
+      "Keep attribution clear: officials’ expectations are not confirmed outcomes."
+    ]
+  }
+}

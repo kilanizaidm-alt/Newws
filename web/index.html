@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="World news for students of English–Arabic journalistic translation. Bilingual readings, contextual vocabulary and translation practice.">
+  <title>Between the Lines · News Translation Classroom</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%2311263c'/%3E%3Ctext x='20' y='29' font-size='29' text-anchor='middle' fill='white'%3Eع%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to lesson</a>
+  <header class="masthead">
+    <div class="brand"><span class="monogram" lang="ar">ع</span><div><span class="eyebrow">NEWS TRANSLATION CLASSROOM</span><h1>Between the Lines</h1></div></div>
+    <p class="arabic-title" lang="ar" dir="rtl">ما بين السطور<span>من الخبر إلى المعنى</span></p>
+  </header>
+  <nav aria-label="Lesson sections"><a href="#stories">The briefing</a><a href="#glossary">Glossary <span lang="ar">المصطلحات</span></a><a href="#practice">Translation practice</a></nav>
+  <main id="main">
+    <div class="edition-bar"><p id="edition">Loading edition…</p><label>Edition <select id="editions" aria-label="Choose edition"><option>Latest</option></select></label></div>
+    <div id="notice" class="notice" role="status">Loading the classroom lesson…</div>
+    <section id="stories" aria-labelledby="briefing-title">
+      <div class="section-heading"><div><span class="eyebrow">01 / READ & COMPARE</span><h2 id="briefing-title">The briefing</h2></div><p>Read the English. Study the Arabic choices.</p></div>
+      <div id="story-list"></div>
+    </section>
+    <section id="glossary" aria-labelledby="glossary-title">
+      <div class="section-heading"><div><span class="eyebrow">02 / WORDS IN CONTEXT</span><h2 id="glossary-title">The newsroom glossary</h2></div><label class="search-label">Find a word <input id="search" type="search" placeholder="English or العربية" autocomplete="off"></label></div>
+      <p id="term-count" class="muted" aria-live="polite"></p><div id="terms" class="terms"></div>
+    </section>
+    <section id="practice" aria-labelledby="practice-title">
+      <div class="section-heading"><div><span class="eyebrow">03 / YOUR TURN</span><h2 id="practice-title">Translate the meaning</h2></div></div>
+      <div class="exercise"><div><p id="exercise-en"></p><label for="attempt">Your Arabic translation <span lang="ar">ترجمتك</span></label><textarea id="attempt" dir="rtl" lang="ar" rows="5" placeholder="اكتب ترجمتك هنا…"></textarea><p class="muted small">Your practice stays in this browser tab and is never submitted. Changing editions clears it.</p></div><div><h3>Editor's notes</h3><ul id="tips"></ul><details><summary>Show model answer <span lang="ar">ترجمة مقترحة</span></summary><p id="exercise-ar" lang="ar" dir="rtl"></p></details></div></div>
+    </section>
+    <details class="method"><summary>About the translations and sources</summary><p>English readings are original learning summaries. Arabic readings are AI-produced model translations, reviewed by a separate AI pass for meaning and journalistic style. Where an Arabic reference is listed, the model compared its wording with that published coverage. This is not independent human certification. Parallel Arabic reporting is not necessarily a translation of the English article.</p><p>Each edition shows its real date. If an update fails, the last successful lesson remains available. The archive contains up to 30 editions.</p></details>
+  </main>
+  <footer><span>Between the Lines</span><span>English → العربية · Learn to report the meaning.</span></footer>
+</body>
+</html>
