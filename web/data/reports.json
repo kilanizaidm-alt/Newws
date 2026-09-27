@@ -1,149 +1,217 @@
 {
-  "fetched_at": "2026-09-26T11:34:57.080392+00:00",
-  "window_start": "2026-09-23T11:34:57.080392+00:00",
+  "fetched_at": "2026-09-27T12:13:38.219243+00:00",
+  "window_start": "2026-09-24T12:13:38.219243+00:00",
   "reports": [
     {
-      "title": "Republic of Ireland news conference delayed before controversial Israel game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "The Takeaway: UN General Assembly debate Day 5",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168462",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-09-26T10:44:37+00:00"
+      "published_at": "2026-09-27T12:00:00+00:00"
     },
     {
-      "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T10:18:51+00:00"
+      "published_at": "2026-09-27T11:38:03+00:00"
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-27T10:00:36+00:00"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-27T07:44:11+00:00"
     },
     {
       "title": "Bangkok roads submerged as flood disaster declared",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T07:21:30+00:00"
+      "published_at": "2026-09-27T04:45:08+00:00"
     },
     {
-      "title": "Bangkok declares disaster as heavy rains spark flooding",
-      "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T06:28:58+00:00"
+      "published_at": "2026-09-27T04:23:09+00:00"
     },
     {
-      "title": "White House bars CNN from travelling with Trump on Air Force One",
-      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "title": "Four killed in helicopter crash near Montreal",
+      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T05:09:09+00:00"
+      "published_at": "2026-09-27T02:43:10+00:00"
     },
     {
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T05:03:09+00:00"
+      "published_at": "2026-09-26T23:04:08+00:00"
     },
     {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
+      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T03:22:17+00:00"
+      "published_at": "2026-09-26T22:02:18+00:00"
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Are claims of a white genocide in South Africa real?",
+      "url": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T02:50:56+00:00"
+      "published_at": "2026-09-26T21:20:17+00:00"
     },
     {
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-26T01:24:31+00:00"
+      "published_at": "2026-09-26T21:13:13+00:00"
     },
     {
-      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168461",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-09-25T23:42:39+00:00"
+      "published_at": "2026-09-26T12:00:00+00:00"
     },
     {
-      "title": "بعد 6 سنوات من كوفيد -19، هل العالم مستعد للجائحة المقبلة؟",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145414",
+      "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168460",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168458",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "Lavrov issues call for new Eurasian ‘security architecture’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168457",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168456",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "Countries adopt global blueprint to tackle fast-evolving crime in digital age",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168455",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "The Takeaway: UN General Assembly debate Day 4",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168454",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "جيبوتي تدعو إلى دعم دولي لمواجهة تدفق الفارين من اليمن وتحذر من تداعيات التوتر في البحر الأحمر",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145427",
       "publisher": "UN News",
       "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "وزير خارجية عُمان يؤكد التزام بلاده بصون الملاحة في مضيق هرمز، ويدعو الأطراف للتعاون",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145429",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "وزير الخارجية التونسي يجدد رفض بلاده أن تكون \"دولة عبور أو أرض إقامة للمهاجرين غير النظاميين\"",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145428",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "وزير الخارجية السعودي: أمن الخليج لا يتجزأ عن أمن العالم، ونرفض استخدام الممرات المائية كأداة للضغط",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145425",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "وزير خارجية روسيا يحذر من \"دكتاتورية قوة مهيمنة واحدة\" وخروجها عن نطاق السيطرة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145426",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "رئيس المصرف العربي للتنمية في أفريقيا: تمويل التنمية في القارة يجب أن يتجاوز البنية التحتية إلى الإنسان",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145381",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "الصين: العالم بحاجة إلى السلام، والقوى الكبرى تتحمل مسؤولية خاصة لحماية الأمن والسلم",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145424",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "تغطية مباشرة - اليوم الخامس للمناقشة العامة للجمعية العامة للأمم المتحدة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145423",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "\"إعلان أبو ظبي\"- الحكومات تعتمد خارطة طريق لمواجهة تهديدات الجريمة في القرن21 خلال مؤتمر أممي",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145422",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168453",
+      "publisher": "UN News",
+      "language": "en",
       "published_at": "2026-09-25T12:00:00+00:00"
     },
     {
-      "title": "نواف سلام: مستقبل لبنان لا يُقرر نيابة عنه وأمنه ليس ثمنا في تسويات تعقد في غيابه",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145415",
+      "title": "وزير الشؤون الخارجية الموريتاني يؤكد أن بلاده تسعى إلى \"بناء دولة عصرية منفتحة على العالم\"",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145421",
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "رئيس وزراء العراق يدعو العالم للاستثمار مع بلده الذي \"يملك الإرادة لبناء اقتصاد جديد\"",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145413",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "أعضاء مجلس الأمن يدينون هجمات الحوثيين ضد السعودية، ويؤكدون دعمهم لحكومة اليمن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145412",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن - الجوع وسوء التغذية يهددان الأطفال مع تصاعد وتيرة العنف",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145410",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "السودان بحاجة إلى مساعدات عاجلة، ودعم الفاو يحدث تغييرا جذريا في حياة الناس",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145409",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "تغطية مباشرة - اليوم الرابع لأعمال المناقشة العامة للجمعية العامة للأمم المتحدة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145411",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "ولي عهد الكويت: الاعتداءات الإيرانية تهدد الأمن وحرية الملاحة وندعم الحل الدبلوماسي",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145407",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-24T12:00:00+00:00"
-    },
-    {
-      "title": "الأمم المتحدة: الأونروا طوق نجاة للاجئي فلسطين ولا يمكن استبدالها",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145406",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-24T12:00:00+00:00"
-    },
-    {
-      "title": "نائب رئيس مجلس القيادة الرئاسي اليمني: الطريق إلى بحر أحمر آمن يمر عبر يمن مستقر",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145408",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-24T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (en)"
-  ]
+  "failed_feeds": []
 }
