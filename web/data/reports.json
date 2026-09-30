@@ -1,131 +1,208 @@
 {
-  "fetched_at": "2026-09-29T13:07:34.028271+00:00",
-  "window_start": "2026-09-26T13:07:34.028271+00:00",
+  "fetched_at": "2026-09-30T12:47:41.689788+00:00",
+  "window_start": "2026-09-27T12:47:41.689788+00:00",
   "reports": [
     {
-      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-29T12:14:50+00:00"
+      "published_at": "2026-09-30T12:42:34+00:00"
     },
     {
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-09-29T10:34:53+00:00"
+      "published_at": "2026-09-30T12:06:28+00:00"
     },
     {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T09:14:13+00:00"
-    },
-    {
-      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
-      "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T08:12:39+00:00"
-    },
-    {
-      "title": "Burkina Faso's junta leader opens major gold refinery to keep mining profits at home",
-      "url": "https://www.bbc.co.uk/news/articles/c61mvdlk0327o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T08:01:24+00:00"
-    },
-    {
-      "title": "Watch: Bangkok locals create floating market during floods",
-      "url": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T06:15:25+00:00"
-    },
-    {
-      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T06:06:20+00:00"
-    },
-    {
-      "title": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T05:31:37+00:00"
-    },
-    {
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T04:10:33+00:00"
-    },
-    {
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-09-29T04:06:43+00:00"
-    },
-    {
-      "title": "إثيوبيا - الأمم المتحدة تجدد الإعراب عن القلق إزاء الأوضاع الأمنية والإنسانية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145438",
+      "title": "مفوضية اللاجئين تعرب عن قلقها إزاء إعادة 1476 شخصا من ماليزيا إلى ميانمار",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145451",
       "publisher": "UN News",
       "language": "ar",
+      "published_at": "2026-09-30T12:00:00+00:00"
+    },
+    {
+      "title": "أطفال لبنان يدفعون نحو الجوع والعمل ويحرمون من التعليم",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145452",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-30T12:00:00+00:00"
+    },
+    {
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T11:36:23+00:00"
+    },
+    {
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T11:25:12+00:00"
+    },
+    {
+      "title": "Couple describes relief at rescue after whale destroys their yacht",
+      "url": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T11:01:58+00:00"
+    },
+    {
+      "title": "Luxury prison in Indonesia demolished after public outcry",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T10:41:03+00:00"
+    },
+    {
+      "title": "Singapore launches matchmaking service for government workers",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T09:42:36+00:00"
+    },
+    {
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T08:59:38+00:00"
+    },
+    {
+      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+      "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T08:45:45+00:00"
+    },
+    {
+      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-09-30T08:40:01+00:00"
+    },
+    {
+      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168486",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "Clean your plate – to reduce food loss and waste",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168485",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168481",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "Yemen escalation fuels fears of further cholera, measles spread",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168480",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "مجلس الأمن يمدد ولاية \"قوة قمع العصابات\" في هايتي والأمم المتحدة تدعو إلى دعمها",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145450",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "تحذير أممي من \"أخطر لحظة نووية منذ نهاية الحرب الباردة\"",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145448",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "الأمم المتحدة تؤكد أن الظروف غير ملائمة لإعادة الروهينجا إلى ميانمار",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145449",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "الأمم المتحدة تبدي القلق بشأن زيادة الضحايا المدنيين في أوكرانيا وروسيا",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145447",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "جمهورية الكونغو الديمقراطية - التطورات الدبلوماسية مستمرة، وتفشي الإيبولا يفاقم الوضع الإنساني",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145444",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "التكلفة البشرية لنقص التمويل – 8.3 مليون لاجئ ونازح مهددون بالحرمان من الدعم والحماية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145442",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "منظمة الصحة - النظام الصحي في اليمن يواجه خطر الانهيار وسط تصاعد أعمال العنف",
+      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145441",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "The Takeaway Day 6: General Debate ends with call to turn words into action",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168478",
+      "publisher": "UN News",
+      "language": "en",
       "published_at": "2026-09-28T12:00:00+00:00"
     },
     {
-      "title": "وزير الخارجية السوداني: لا سلام دائما في السودان دون وقف التدخلات الخارجية وتدفقات السلاح",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145437",
+      "title": "UN leaders renew push to defeat racism, 25 years after Durban",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168477",
       "publisher": "UN News",
-      "language": "ar",
+      "language": "en",
       "published_at": "2026-09-28T12:00:00+00:00"
     },
     {
-      "title": "في الجمعية العامة، الإمارات ترفض السماح للأزمات حولها بتقويض ما تحقق من إنجازات رائدة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145436",
+      "title": "DPR Korea tells UN its nuclear status is ‘irreversible’, rejects outside pressure",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168476",
       "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-28T12:00:00+00:00"
-    },
-    {
-      "title": "الأمم المتحدة تدعو إلى تجديد الالتزام بحل الدولتين قبل فوات الأوان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145433",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-28T12:00:00+00:00"
-    },
-    {
-      "title": "الجزائر: منطقتا الخليج والشرق الأوسط تمران بإحدى أخطر المراحل في تاريخهما",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145435",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-28T12:00:00+00:00"
-    },
-    {
-      "title": "الأمين العام: العنصرية والتمييز يسممان مجتمعاتنا والترياق هو \"الوحدة والعمل الملموس\"",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145430",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-28T12:00:00+00:00"
-    },
-    {
-      "title": "نقص التمويل يجبر برنامج الأغذية العالمي على تقليص مساعداته في غزة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145386",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-09-28T12:00:00+00:00"
-    },
-    {
-      "title": "مفوضية حقوق الإنسان: ضلوع 214 شركة في أنشطة بالمستوطنات الإسرائيلية غير القانونية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/09/1145432",
-      "publisher": "UN News",
-      "language": "ar",
+      "language": "en",
       "published_at": "2026-09-28T12:00:00+00:00"
     },
     {
@@ -136,7 +213,5 @@
       "published_at": "2026-09-28T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (en)"
-  ]
+  "failed_feeds": []
 }
