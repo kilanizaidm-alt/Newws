@@ -1,76 +1,90 @@
 {
-  "fetched_at": "2026-10-03T11:49:58.420783+00:00",
-  "window_start": "2026-09-30T11:49:58.420783+00:00",
+  "fetched_at": "2026-10-04T12:35:06.452261+00:00",
+  "window_start": "2026-10-01T12:35:06.452261+00:00",
   "reports": [
     {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-03T11:48:41+00:00"
+      "published_at": "2026-10-04T12:09:04+00:00"
     },
     {
-      "title": "Protesters across Spain demand action over housing crisis",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-04T11:03:20+00:00"
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-04T06:19:17+00:00"
+    },
+    {
+      "title": "Rare tornado whips through small Australian town",
+      "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-04T04:15:36+00:00"
+    },
+    {
+      "title": "Debris found from plane that went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-04T03:49:06+00:00"
+    },
+    {
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-03T11:35:48+00:00"
+      "published_at": "2026-10-04T03:42:15+00:00"
     },
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-03T11:20:21+00:00"
+      "published_at": "2026-10-04T00:11:25+00:00"
     },
     {
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-03T10:58:51+00:00"
+      "published_at": "2026-10-03T23:37:46+00:00"
     },
     {
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-03T08:51:14+00:00"
+      "published_at": "2026-10-03T23:30:06+00:00"
     },
     {
-      "title": "Joker persona helps Cong 'feel the fear' in opponents",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
+      "title": "US father and son arrested after 'gas station heroin' deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-03T07:07:09+00:00"
+      "published_at": "2026-10-03T22:39:06+00:00"
     },
     {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168469",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-03T04:38:31+00:00"
+      "published_at": "2026-10-03T12:00:00+00:00"
     },
     {
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-03T02:36:19+00:00"
-    },
-    {
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-03T02:23:07+00:00"
-    },
-    {
-      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-02T23:56:21+00:00"
+      "title": "غزة - عائلات تعيش تحت خطر انهيار منازلها",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145434",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-03T12:00:00+00:00"
     },
     {
       "title": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
@@ -129,6 +143,27 @@
       "published_at": "2026-10-02T12:00:00+00:00"
     },
     {
+      "title": "160 مليون دولار من الأمم المتحدة لإنقاذ الأرواح في 12 أزمة إنسانية حول العالم",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145475",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-02T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن – النزاع يفاقم الجوع ويتسبب في نزوح أكثر من 152 ألف شخص",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145472",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-02T12:00:00+00:00"
+    },
+    {
+      "title": "السودان – مقتل طفل وإصابة 12 آخرين جراء ضربة طالت مركزا لإيواء النازحين في الأبيض",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145474",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-02T12:00:00+00:00"
+    },
+    {
       "title": "غزة – منظمة الصحة العالمية تدعو إلى تدفق هائل للمساعدات قبيل حلول فصل الشتاء",
       "url": "https://news.un.org/feed/view/ar/story/2026/10/1145473",
       "publisher": "UN News",
@@ -141,76 +176,6 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-10-02T12:00:00+00:00"
-    },
-    {
-      "title": "UN Member States weigh latest Security Council veto, this time on Iran",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168505",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "No more execution attempts on Christa Pike: UN rights chief",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168504",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "مفوضية اللاجئين: قرابة 6 ملايين طفل لاجئ كانوا خارج المدارس في 2025",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145454",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن – قلق أممي عميق إزاء التصعيد العسكري المستمر",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145468",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "أفغانستان - سقوط مزيد من المدنيين بسبب مواجهات على الحدود، والذخائر غير المنفجرة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145469",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "مفوض الأمم المتحدة لحقوق الإنسان يدعو لوقف أي محاولة إعدام جديدة بحق كريستا بايك",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145470",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "غزة – إزالة أكثر من 226 ألف طن من النفايات الصلبة من سوق فراس",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145467",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "الأمم المتحدة تعرب عن القلق البالغ إزاء الحادثة المتعلقة بطائرة فلاي دبي",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145465",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "\"شريان حياة\" - ترحيب أممي باستمرار فتح معبر أدري بين تشاد والسودان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145466",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "title": "أزمة الروهينجا بعد تسع سنوات - الأمم المتحدة تدعو إلى حل دائم وعودة آمنة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145443",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-01T12:00:00+00:00"
     }
   ],
   "failed_feeds": []
