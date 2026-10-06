@@ -1,34 +1,174 @@
 {
-  "fetched_at": "2026-10-05T14:59:16.262974+00:00",
-  "window_start": "2026-10-02T14:59:16.262974+00:00",
+  "fetched_at": "2026-10-06T13:26:38.225336+00:00",
+  "window_start": "2026-10-03T13:26:38.225336+00:00",
   "reports": [
     {
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-05T14:30:31+00:00"
+      "published_at": "2026-10-06T13:10:42+00:00"
     },
     {
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-05T13:16:00+00:00"
+      "published_at": "2026-10-06T12:51:05+00:00"
     },
     {
-      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T12:59:56+00:00"
+      "title": "أكثر من 347 مليون طفل في 100 دولة يواجهون مخاطر الجفاف والفيضانات بسبب ظاهرة النينيو",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145485",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-06T12:00:00+00:00"
     },
     {
-      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-      "url": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-05T12:08:21+00:00"
+      "published_at": "2026-10-06T11:53:21+00:00"
+    },
+    {
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T11:42:52+00:00"
+    },
+    {
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T11:24:19+00:00"
+    },
+    {
+      "title": "Former German spy chief arrested for espionage and treason",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T10:05:42+00:00"
+    },
+    {
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T10:05:22+00:00"
+    },
+    {
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T09:48:37+00:00"
+    },
+    {
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T07:58:19+00:00"
+    },
+    {
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-06T07:43:07+00:00"
+    },
+    {
+      "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168526",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168522",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168521",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "UN upholds housing as a human right on World Habitat Day",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168520",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168519",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "في ذكرى هجوم 7 أكتوبر، الأمين العام يدعو إلى بناء مستقبل مختلف للإسرائيليين والفلسطينيين",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145486",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن - الأمم المتحدة ترحب بالإفراج عن أحد موظفيها المحتجزين لدى سلطات الأمر الواقع الحوثية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145484",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "في ختام زيارة إلى أفغانستان، ديكارلو تؤكد ضرورة إحراز تقدم في حقوق النساء والفتيات",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145481",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "إثيوبيا – قلق أممي إزاء تزايد التقارير عن الضحايا المدنيين ونهب المساعدات في تيغراي",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145483",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "مساعدات للفلسطينيين في الضفة الغربية قبل موسم قطف الزيتون، وتقارير عن هجمات للمستوطنين",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145482",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "من خيمة الفصل إلى خيمة النزوح - يوم في حياة معلم بغزة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145477",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    },
+    {
+      "title": "السودان - مجلس حقوق الإنسان يعتمد قرارا يدين استمرار النزاع ويمدد ولاية بعثة تقصي الحقائق",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145479",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-05T12:00:00+00:00"
     },
     {
       "title": "اليوم العالمي للموئل - دعوة من مسقط للتحرك بشأن أزمة الإسكان العالمية",
@@ -45,63 +185,19 @@
       "published_at": "2026-10-05T12:00:00+00:00"
     },
     {
-      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T11:34:59+00:00"
-    },
-    {
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T11:10:28+00:00"
-    },
-    {
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T11:04:37+00:00"
-    },
-    {
-      "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T10:23:26+00:00"
-    },
-    {
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T10:18:47+00:00"
-    },
-    {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-05T10:03:38+00:00"
-    },
-    {
-      "title": "من يملك حق تشكيل الذكاء الاصطناعي؟ نقاش في الأمم المتحدة حول النفوذ والثقة والشمول",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145462",
+      "title": "Beyond the Moon: Space Week around the world",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168517",
       "publisher": "UN News",
-      "language": "ar",
+      "language": "en",
       "published_at": "2026-10-04T12:00:00+00:00"
     },
     {
-      "title": "غزة - عائلات تعيش تحت خطر انهيار منازلها",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145434",
+      "title": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168492",
       "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-03T12:00:00+00:00"
+      "language": "en",
+      "published_at": "2026-10-04T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (en)"
-  ]
+  "failed_feeds": []
 }
