@@ -1,27 +1,125 @@
 {
-  "fetched_at": "2026-10-09T13:29:19.698903+00:00",
-  "window_start": "2026-10-06T13:29:19.698903+00:00",
+  "fetched_at": "2026-10-10T12:44:17.117856+00:00",
+  "window_start": "2026-10-07T12:44:17.117856+00:00",
   "reports": [
     {
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-09T12:24:58+00:00"
+      "published_at": "2026-10-10T11:55:12+00:00"
     },
     {
-      "title": "ICE agent shoots man in New York City",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-09T12:18:52+00:00"
+      "published_at": "2026-10-10T11:17:15+00:00"
     },
     {
-      "title": "Two Renoir paintings stolen from French museum are recovered",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-09T12:05:12+00:00"
+      "published_at": "2026-10-10T10:06:23+00:00"
+    },
+    {
+      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T09:17:36+00:00"
+    },
+    {
+      "title": "How the trial of murdered Australian brothers and US friend unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T06:04:35+00:00"
+    },
+    {
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T04:51:57+00:00"
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T04:38:20+00:00"
+    },
+    {
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T04:34:55+00:00"
+    },
+    {
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T04:07:11+00:00"
+    },
+    {
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-10T02:02:54+00:00"
+    },
+    {
+      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "Global trade reaches record $35 trillion despite conflicts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "Amid heartache of Nepal flooding disaster, fear remains",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168561",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
       "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
@@ -31,53 +129,60 @@
       "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T11:44:49+00:00"
+      "title": "الأمم المتحدة: الهجمات الروسية على أوكرانيا تصل إلى مستوى مروع",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145516",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T11:35:00+00:00"
+      "title": "السودان – تقارير عن احتمال مقتل 40 مدنيا في ضربة قرب الحدود مع إثيوبيا",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145515",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T10:54:21+00:00"
+      "title": "الأمين العام يدين الإعلان الأمريكي بفرض عقوبات على المحكمة الجنائية الدولية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145514",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T10:07:04+00:00"
+      "title": "اليمن – اليونيسف تحذر من \"أزمة داخل أزمة\" تواجه الأطفال بسبب سوء التغذية والنزوح والأمراض",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145511",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "Fleeing Kyiv for the countryside ahead of winter",
-      "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T10:00:49+00:00"
+      "title": "غزة - إمدادات المأوى لا تغطي سوى 17% من احتياجات الشتاء",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145513",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T09:43:22+00:00"
+      "title": "تحذير أممي في مجلس الأمن من عودة اليمن إلى حرب شاملة ودعوة إلى تجديد جهود السلام",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145512",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
-      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
-      "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-09T09:37:56+00:00"
+      "title": "مكتب حقوق الإنسان يحذر من تأثير العمليات العسكرية الإسرائيلية على المدنيين في جنوب سوريا",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145509",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "title": "مفوضة الأمم المتحدة السامية السابقة لحقوق الإنسان تفوز بجائزة نوبل للسلام",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145510",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-09T12:00:00+00:00"
     },
     {
       "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
@@ -94,56 +199,19 @@
       "published_at": "2026-10-08T12:00:00+00:00"
     },
     {
-      "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+      "title": "مقتل أو إصابة نحو 50 ألف امرأة وفتاة في غزة خلال ثلاث سنوات من الحرب",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145508",
       "publisher": "UN News",
-      "language": "en",
+      "language": "ar",
       "published_at": "2026-10-08T12:00:00+00:00"
     },
     {
-      "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+      "title": "نائبة الأمين العام تزور إثيوبيا وتؤكد ضرورة احترام وحدة أراضيها وسيادتها",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145507",
       "publisher": "UN News",
-      "language": "en",
+      "language": "ar",
       "published_at": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "title": "‘Age must never diminish rights,’ UN independent expert warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168553",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168551",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168550",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168548",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-07T12:00:00+00:00"
-    },
-    {
-      "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168547",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-07T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (ar)"
-  ]
+  "failed_feeds": []
 }
