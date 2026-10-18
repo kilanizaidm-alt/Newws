@@ -1,9 +1,6 @@
 {
-  "attempted_at": "2026-10-17T10:58:07.919403+00:00",
+  "attempted_at": "2026-10-18T11:24:13.537039+00:00",
   "lesson_status": "unavailable",
-  "report_count": 10,
-  "failed_feeds": [
-    "UN News (en)",
-    "UN News (ar)"
-  ]
+  "report_count": 30,
+  "failed_feeds": []
 }
