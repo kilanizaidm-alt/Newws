@@ -1,19 +1,166 @@
 {
-  "fetched_at": "2026-10-19T13:38:33.554064+00:00",
-  "window_start": "2026-10-16T13:38:33.554064+00:00",
+  "fetched_at": "2026-10-20T11:51:44.965760+00:00",
+  "window_start": "2026-10-17T11:51:44.965760+00:00",
   "reports": [
     {
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-19T13:13:15+00:00"
+      "published_at": "2026-10-20T11:47:39+00:00"
+    },
+    {
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T11:30:59+00:00"
+    },
+    {
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T11:25:35+00:00"
+    },
+    {
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T11:09:09+00:00"
+    },
+    {
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T08:53:06+00:00"
+    },
+    {
+      "title": "How is the US economy really doing under President Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T05:00:45+00:00"
+    },
+    {
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T03:10:39+00:00"
+    },
+    {
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T02:54:05+00:00"
+    },
+    {
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T02:45:05+00:00"
+    },
+    {
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-20T01:52:43+00:00"
+    },
+    {
+      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "Gaza: Funding cuts leave half a million without food assistance",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
     },
     {
       "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
       "publisher": "UN News",
       "language": "en",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "مجلس الأمن يتبنى قرارا لحماية الأطفال في النزاعات المسلحة من أضرار التكنولوجيا الرقمية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145564",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "قلق أممي إزاء التصعيد العسكري وهجمات الحوثيين على السعودية وتفاقم الأزمة الإنسانية في تعز",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145568",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "اليونيفيل تواصل تسجيل انتهاكات، ورئيس إدارة عمليات السلام يواصل زيارته الإقليمية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145567",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "حصاد الزيتون - خبراء أمميون يحثون إسرائيل على حماية المزارعين في الضفة الغربية المحتلة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145566",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "هايتي – تقدم غير مسبوق في الاستعدادات الانتخابية، والعصابات تواصل تحدي الدولة وممارسة العنف",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145565",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "title": "الخبز أم الدواء؟ – مسؤولة أممية تصف قسوة الأوضاع الإنسانية في أفغانستان",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145561",
+      "publisher": "UN News",
+      "language": "ar",
       "published_at": "2026-10-19T12:00:00+00:00"
     },
     {
@@ -29,69 +176,6 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T11:41:24+00:00"
-    },
-    {
-      "title": "Meloni calls emergency meeting after weekend of violent clashes",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T11:23:36+00:00"
-    },
-    {
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T10:33:12+00:00"
-    },
-    {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T09:40:44+00:00"
-    },
-    {
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T09:38:25+00:00"
-    },
-    {
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T09:24:33+00:00"
-    },
-    {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T09:11:42+00:00"
-    },
-    {
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T08:17:19+00:00"
-    },
-    {
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-19T07:46:54+00:00"
     },
     {
       "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
