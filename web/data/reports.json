@@ -1,76 +1,181 @@
 {
-  "fetched_at": "2026-10-20T11:51:44.965760+00:00",
-  "window_start": "2026-10-17T11:51:44.965760+00:00",
+  "fetched_at": "2026-10-21T12:03:31.256011+00:00",
+  "window_start": "2026-10-18T12:03:31.256011+00:00",
   "reports": [
     {
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T11:47:39+00:00"
+      "published_at": "2026-10-21T12:00:33+00:00"
     },
     {
-      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "WHO supports Nigeria after first Ebola case confirmed",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168637",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-20T11:30:59+00:00"
+      "published_at": "2026-10-21T12:00:00+00:00"
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-20T11:25:35+00:00"
+      "published_at": "2026-10-21T12:00:00+00:00"
     },
     {
-      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
-      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-20T11:09:09+00:00"
+      "title": "تقرير أممي: الاحترار العالمي سيتجاوز عتبة 1.5 درجة مئوية، لكن نقطة العودة ممكنة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145574",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-21T12:00:00+00:00"
     },
     {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T08:53:06+00:00"
+      "published_at": "2026-10-21T09:55:15+00:00"
     },
     {
-      "title": "How is the US economy really doing under President Trump?",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T05:00:45+00:00"
+      "published_at": "2026-10-21T08:42:49+00:00"
     },
     {
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T03:10:39+00:00"
+      "published_at": "2026-10-21T08:31:48+00:00"
     },
     {
-      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+      "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T02:54:05+00:00"
+      "published_at": "2026-10-21T08:19:32+00:00"
     },
     {
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T02:45:05+00:00"
+      "published_at": "2026-10-21T07:56:30+00:00"
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-20T01:52:43+00:00"
+      "published_at": "2026-10-21T06:50:40+00:00"
+    },
+    {
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-21T06:36:39+00:00"
+    },
+    {
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-21T05:46:33+00:00"
+    },
+    {
+      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+      "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-21T03:58:16+00:00"
+    },
+    {
+      "title": "AI on track to ‘crowd out’ human decision-making in warfare",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168636",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168631",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "Yemen war continues to force families from homes amid hunger and disease",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "كوسوفو - الأمم المتحدة تؤكد أهمية المصالحة، والحوار لتطبيع العلاقات بين بريشتينا وبلغراد",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145576",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "\"حرب الآلات تقترب. فهل سنسمح للآلات باستهداف البشر وقتلهم؟\"، معهد الأمم المتحدة لبحوث نزع السلاح يجيب",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145571",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "الأمين العام يدين الهجوم بمسيرات على أبيي ويدعو إلى المساءلة وحماية المدنيين",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145575",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "الاحتجاجات في 5 دول أوروبية – فولكر تورك يدعو إلى خفض التوترات واللجوء إلى الحوار",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145573",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "جمهورية أفريقيا الوسطى - تقدم في ترسيخ المكاسب السياسية والأمنية، رغم الوضع الأمني المقلق",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145572",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "اليونيسف: تعز هي مصدر القلق الأول وسط \"بحر من الهموم\" في اليمن",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145570",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "title": "أفغانستان - الجوع يهدد 19.2 مليون شخص خلال فصل الشتاء رغم توفر الغذاء",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145569",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-20T12:00:00+00:00"
     },
     {
       "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
@@ -94,34 +199,6 @@
       "published_at": "2026-10-19T12:00:00+00:00"
     },
     {
-      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "Gaza: Funding cuts leave half a million without food assistance",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
       "title": "مجلس الأمن يتبنى قرارا لحماية الأطفال في النزاعات المسلحة من أضرار التكنولوجيا الرقمية",
       "url": "https://news.un.org/feed/view/ar/story/2026/10/1145564",
       "publisher": "UN News",
@@ -134,76 +211,6 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "اليونيفيل تواصل تسجيل انتهاكات، ورئيس إدارة عمليات السلام يواصل زيارته الإقليمية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145567",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "حصاد الزيتون - خبراء أمميون يحثون إسرائيل على حماية المزارعين في الضفة الغربية المحتلة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145566",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "هايتي – تقدم غير مسبوق في الاستعدادات الانتخابية، والعصابات تواصل تحدي الدولة وممارسة العنف",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145565",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "الخبز أم الدواء؟ – مسؤولة أممية تصف قسوة الأوضاع الإنسانية في أفغانستان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145561",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "غزة - نقص التمويل يحرم نصف مليون شخص من المساعدات الغذائية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145563",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "حماية التنوع البيولوجي الهش تتصدر المشهد في محادثات أرمينيا",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145562",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168608",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-18T12:00:00+00:00"
-    },
-    {
-      "title": "COP17: The world has a plan to save nature. Is it working?",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-17T12:00:00+00:00"
-    },
-    {
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-17T12:00:00+00:00"
-    },
-    {
-      "title": "ما بعد الركام - نساء لبنانيات يحمين الذاكرة والتراث",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145528",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-17T12:00:00+00:00"
     }
   ],
   "failed_feeds": []
