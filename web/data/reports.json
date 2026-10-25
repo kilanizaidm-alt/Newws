@@ -1,125 +1,83 @@
 {
-  "fetched_at": "2026-10-24T11:17:30.469637+00:00",
-  "window_start": "2026-10-21T11:17:30.469637+00:00",
+  "fetched_at": "2026-10-25T11:47:25.175241+00:00",
+  "window_start": "2026-10-22T11:47:25.175241+00:00",
   "reports": [
     {
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T10:22:34+00:00"
+      "published_at": "2026-10-25T11:00:26+00:00"
     },
     {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T09:46:53+00:00"
+      "published_at": "2026-10-25T10:55:33+00:00"
     },
     {
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T09:44:01+00:00"
+      "published_at": "2026-10-25T10:38:15+00:00"
     },
     {
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T07:17:44+00:00"
+      "published_at": "2026-10-25T09:00:00+00:00"
     },
     {
-      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T05:31:01+00:00"
+      "published_at": "2026-10-25T08:36:47+00:00"
     },
     {
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T05:05:44+00:00"
+      "published_at": "2026-10-25T05:45:31+00:00"
     },
     {
-      "title": "The rise of AI election ads in US midterms campaign",
-      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T05:03:44+00:00"
+      "published_at": "2026-10-25T05:15:52+00:00"
     },
     {
-      "title": "Australian MP's condition improves after alleged car attack",
-      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T01:55:15+00:00"
+      "published_at": "2026-10-25T03:20:16+00:00"
     },
     {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T00:36:47+00:00"
+      "published_at": "2026-10-25T02:27:15+00:00"
     },
     {
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-23T23:11:31+00:00"
+      "published_at": "2026-10-24T23:03:21+00:00"
     },
     {
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "title": "يوم الأمم المتحدة - 81 عاما من العمل من أجل السلام والتنمية وحقوق الإنسان",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145590",
       "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "Soil mapping aims to boost agricultural production in Kenya",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-23T12:00:00+00:00"
+      "language": "ar",
+      "published_at": "2026-10-24T12:00:00+00:00"
     },
     {
       "title": "أعضاء مجلس الأمن يدينون هجمات الطائرات المسيرة على أبيي",
@@ -183,35 +141,9 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168648",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-22T12:00:00+00:00"
-    },
-    {
-      "title": "First human case of Shamonda virus reported in France as patient dies",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168652",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-22T12:00:00+00:00"
-    },
-    {
-      "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168651",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-22T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن - مقتل وإصابة أكثر من 260 شخصا منذ أغسطس والمساعدات الأممية مستمرة في ظل التحديات",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145587",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-22T12:00:00+00:00"
     }
   ],
-  "failed_feeds": []
+  "failed_feeds": [
+    "UN News (en)"
+  ]
 }
