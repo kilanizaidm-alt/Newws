@@ -1,149 +1,93 @@
 {
-  "fetched_at": "2026-10-25T11:47:25.175241+00:00",
-  "window_start": "2026-10-22T11:47:25.175241+00:00",
+  "fetched_at": "2026-10-26T13:19:34.622807+00:00",
+  "window_start": "2026-10-23T13:19:34.622807+00:00",
   "reports": [
     {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T11:00:26+00:00"
+      "published_at": "2026-10-26T12:57:58+00:00"
     },
     {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T10:55:33+00:00"
+      "published_at": "2026-10-26T12:52:16+00:00"
     },
     {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T10:38:15+00:00"
+      "published_at": "2026-10-26T11:39:16+00:00"
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Five ways Trump has changed immigration in the US",
+      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T09:00:00+00:00"
+      "published_at": "2026-10-26T11:29:02+00:00"
     },
     {
-      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T08:36:47+00:00"
+      "published_at": "2026-10-26T11:27:39+00:00"
     },
     {
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T05:45:31+00:00"
+      "published_at": "2026-10-26T09:31:12+00:00"
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T05:15:52+00:00"
+      "published_at": "2026-10-26T07:40:57+00:00"
     },
     {
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T03:20:16+00:00"
+      "published_at": "2026-10-26T06:19:12+00:00"
     },
     {
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-25T02:27:15+00:00"
+      "published_at": "2026-10-26T06:16:15+00:00"
     },
     {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-24T23:03:21+00:00"
+      "published_at": "2026-10-26T05:20:19+00:00"
     },
     {
-      "title": "يوم الأمم المتحدة - 81 عاما من العمل من أجل السلام والتنمية وحقوق الإنسان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145590",
+      "title": "Why do planes keep circling before landing? The UN has a plan to fix it",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168666",
       "publisher": "UN News",
-      "language": "ar",
+      "language": "en",
+      "published_at": "2026-10-25T12:00:00+00:00"
+    },
+    {
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "publisher": "UN News",
+      "language": "en",
       "published_at": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "title": "أعضاء مجلس الأمن يدينون هجمات الطائرات المسيرة على أبيي",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145597",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "غروسي أمام الجمعية العامة: عالم أقل تسلحا نوويا هو عالم أكثر أمانا للجميع",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145594",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "الأمين العام للأمم المتحدة يدين الهجوم الإرهابي على كنيسة بالأردن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145596",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "الضفة الغربية - الأمم المتحدة تبدي القلق إزاء تصاعد العنف والقرار الإسرائيلي بفرض إغلاق شامل",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145595",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "من بينها البحرين، 10 دول في مجلس الأمن تشكل مجموعة خبراء لبحث أثر التكنولوجيا على السلام والأمن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145593",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "لجنة أممية: الذكاء الاصطناعي قد يفاقم أشكالا جديدة من العنف القائم على النوع الاجتماعي",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145592",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن - الأمم المتحدة تحذر من الوضع الإنساني في تعز بعد 20 يوما على عزل المدينة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145589",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "السودان - مفوض حقوق الإنسان يدين تصعيد هجمات المسيرات ويدعو للتصدي لتدفق الأسلحة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145591",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "title": "هيئة الأمم المتحدة للمرأة: نساء وفتيات الفاشر يواصلن دفع الثمن بعد عام من سقوط المدينة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145588",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-23T12:00:00+00:00"
     }
   ],
   "failed_feeds": [
-    "UN News (en)"
+    "UN News (ar)"
   ]
 }
