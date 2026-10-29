@@ -1,13 +1,139 @@
 {
-  "fetched_at": "2026-10-28T13:14:16.927272+00:00",
-  "window_start": "2026-10-25T13:14:16.927272+00:00",
+  "fetched_at": "2026-10-29T13:21:23.056785+00:00",
+  "window_start": "2026-10-26T13:21:23.056785+00:00",
   "reports": [
+    {
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T12:49:17+00:00"
+    },
+    {
+      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T12:27:31+00:00"
+    },
+    {
+      "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    },
+    {
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T11:27:05+00:00"
+    },
+    {
+      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T11:25:16+00:00"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T11:22:18+00:00"
+    },
+    {
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T11:07:35+00:00"
+    },
     {
       "title": "What we know so far about deadly Spain train crash",
       "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-28T12:14:44+00:00"
+      "published_at": "2026-10-29T10:02:37+00:00"
+    },
+    {
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T09:30:03+00:00"
+    },
+    {
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T09:17:05+00:00"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-29T09:06:48+00:00"
+    },
+    {
+      "title": "Higher Ground: How New York is raising a park to hold back the sea",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "UN human rights chief urges better protection of civilians in conflicts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168693",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "Record heat-related deaths in 2023, WHO-partnered report finds",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168688",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-28T12:00:00+00:00"
     },
     {
       "title": "Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns",
@@ -17,133 +143,75 @@
       "published_at": "2026-10-28T12:00:00+00:00"
     },
     {
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T10:35:13+00:00"
-    },
-    {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T10:31:22+00:00"
-    },
-    {
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T10:18:40+00:00"
-    },
-    {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T10:17:54+00:00"
-    },
-    {
-      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
-      "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T08:28:39+00:00"
-    },
-    {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T04:32:36+00:00"
-    },
-    {
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T04:22:59+00:00"
-    },
-    {
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T02:20:25+00:00"
-    },
-    {
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-28T01:01:02+00:00"
-    },
-    {
-      "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
+      "title": "اليمن – أكثر من 281 ألف شخص نزحوا وسط حاجة ملحة للمأوى",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145620",
       "publisher": "UN News",
-      "language": "en",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "فولكر تورك: حقوق الإنسان قوة للتغيير والشعوب تريد عالما أفضل وترفض القسوة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145621",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "تغير المناخ يشكل حالة طوارئ صحية متفاقمة، في حين تضعف قدرة المحيطات على التصدي له",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145616",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "المدير الجديد لبرنامج الأغذية العالمي يؤكد أن وكالته ستواصل العمل رغم التحديات، والسودان وجهته الأولى",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145619",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "السودان - بعثة تقصي الحقائق تحذر من الوضع في الأبيض وآثار التدخل الخارجي في الصراع",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145617",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "للمرة الـ 34، الجمعية العامة تعتمد قرارا يدعو لإنهاء الحصار الأمريكي على كوبا",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145615",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "الجزائر - الصندوق الأخضر للمناخ يوافق على مشروع رائد لتعزيز العمل المناخي وسبل العيش",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145614",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "بعد عام من هجوم الفاشر، دعوات للمحاسبة والوقاية لمنع تكرار الفظائع",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145613",
+      "publisher": "UN News",
+      "language": "ar",
       "published_at": "2026-10-27T12:00:00+00:00"
     },
     {
-      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "title": "غوتيريش: المشاركة الفاعلة للمرأة تعزز السلام والأمن، والمساواة قرار يجب على العالم اتخاذه",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145607",
       "publisher": "UN News",
-      "language": "en",
+      "language": "ar",
       "published_at": "2026-10-27T12:00:00+00:00"
     },
     {
-      "title": "Security Council LIVE: Women and girls face greater dangers in war",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "title": "منظمة العمل الدولية: أكثر من 66 مليون عامل منزلي حول العالم يفتقرون إلى حماية وظيفية رسمية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145612",
       "publisher": "UN News",
-      "language": "en",
+      "language": "ar",
       "published_at": "2026-10-27T12:00:00+00:00"
-    },
-    {
-      "title": "Four in five domestic workers lack formal job protections, UN finds",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168683",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-27T12:00:00+00:00"
-    },
-    {
-      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-27T12:00:00+00:00"
-    },
-    {
-      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168677",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-27T12:00:00+00:00"
-    },
-    {
-      "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-27T12:00:00+00:00"
-    },
-    {
-      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-26T12:00:00+00:00"
-    },
-    {
-      "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-26T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (ar)"
-  ]
+  "failed_feeds": []
 }
