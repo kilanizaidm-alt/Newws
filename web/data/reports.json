@@ -1,83 +1,118 @@
 {
-  "fetched_at": "2026-10-30T13:12:36.899365+00:00",
-  "window_start": "2026-10-27T13:12:36.899365+00:00",
+  "fetched_at": "2026-10-31T12:48:59.522770+00:00",
+  "window_start": "2026-10-28T12:48:59.522770+00:00",
   "reports": [
     {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-30T13:03:34+00:00"
+      "published_at": "2026-10-31T12:21:25+00:00"
     },
     {
-      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-30T12:36:55+00:00"
+      "published_at": "2026-10-31T12:05:04+00:00"
     },
     {
-      "title": "What we know about Binance's $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-30T12:27:28+00:00"
-    },
-    {
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-30T12:25:53+00:00"
-    },
-    {
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-30T12:04:02+00:00"
-    },
-    {
-      "title": "سمرقند.. متحف حي يسعى إلى حماية تراثه من تحديات العصر",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145626",
+      "title": "Somalia looks to the future as the UN's political mission closes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168714",
       "publisher": "UN News",
-      "language": "ar",
+      "language": "en",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T09:16:14+00:00"
+    },
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T05:44:21+00:00"
+    },
+    {
+      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T04:32:07+00:00"
+    },
+    {
+      "title": "The fight to save Canadian town threatened by Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T02:39:25+00:00"
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T02:12:19+00:00"
+    },
+    {
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T02:02:16+00:00"
+    },
+    {
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T01:32:33+00:00"
+    },
+    {
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-10-31T01:27:05+00:00"
+    },
+    {
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "publisher": "UN News",
+      "language": "en",
       "published_at": "2026-10-30T12:00:00+00:00"
     },
     {
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-30T10:07:58+00:00"
+      "published_at": "2026-10-30T12:00:00+00:00"
     },
     {
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-30T08:32:35+00:00"
+      "published_at": "2026-10-30T12:00:00+00:00"
     },
     {
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-30T07:53:38+00:00"
+      "published_at": "2026-10-30T12:00:00+00:00"
     },
     {
-      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-10-30T07:33:27+00:00"
-    },
-    {
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-30T06:02:23+00:00"
+      "published_at": "2026-10-30T12:00:00+00:00"
     },
     {
       "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
@@ -106,112 +141,9 @@
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "Nature is making a comeback – now restoration funding must quadruple",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168700",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168697",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "لبنان – اليونيفيل تفيد باستمرار أنشطة الجيش الإسرائيلي في الجنوب",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145629",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "تعرض مستودع أممي في غزة لأضرار، وآلاف الأشخاص لا يزالون نازحين في الخليل",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145628",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "أوكرانيا - الأمم المتحدة تدين هجوما على قطار في دنيبرو أسفر عن مقتل مدنيين",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145627",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "رئيس محكمة العدل الدولية: عدد قياسي من القضايا الخلافية قيد النظر أمام المحكمة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145625",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "أفغانستان – إنتاج الأفيون يقفز بنسبة 400% في 2026 رغم الحظر",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145623",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "كيف يتأثر الأمن البحري بالذكاء الاصطناعي؟ مجلس الأمن يبحث الفرص والتحديات",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145624",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "Higher Ground: How New York is raising a park to hold back the sea",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-28T12:00:00+00:00"
-    },
-    {
-      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-28T12:00:00+00:00"
-    },
-    {
-      "title": "UN human rights chief urges better protection of civilians in conflicts",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168695",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-28T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن – أكثر من 281 ألف شخص نزحوا وسط حاجة ملحة للمأوى",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145620",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-28T12:00:00+00:00"
-    },
-    {
-      "title": "فولكر تورك: حقوق الإنسان قوة للتغيير والشعوب تريد عالما أفضل وترفض القسوة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145621",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-28T12:00:00+00:00"
-    },
-    {
-      "title": "تغير المناخ يشكل حالة طوارئ صحية متفاقمة، في حين تضعف قدرة المحيطات على التصدي له",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145616",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-28T12:00:00+00:00"
     }
   ],
-  "failed_feeds": []
+  "failed_feeds": [
+    "UN News (ar)"
+  ]
 }
