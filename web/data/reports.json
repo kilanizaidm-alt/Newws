@@ -1,20 +1,97 @@
 {
-  "fetched_at": "2026-10-31T12:48:59.522770+00:00",
-  "window_start": "2026-10-28T12:48:59.522770+00:00",
+  "fetched_at": "2026-11-01T13:38:15.885064+00:00",
+  "window_start": "2026-10-29T13:38:15.885064+00:00",
   "reports": [
     {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-31T12:21:25+00:00"
+      "published_at": "2026-11-01T13:11:37+00:00"
     },
     {
-      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-10-31T12:05:04+00:00"
+      "published_at": "2026-11-01T11:57:48+00:00"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T07:00:55+00:00"
+    },
+    {
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T06:03:57+00:00"
+    },
+    {
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T05:26:02+00:00"
+    },
+    {
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T01:37:26+00:00"
+    },
+    {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T00:55:06+00:00"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T00:46:12+00:00"
+    },
+    {
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T00:41:24+00:00"
+    },
+    {
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-01T00:27:33+00:00"
+    },
+    {
+      "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-10-31T12:00:00+00:00"
     },
     {
       "title": "Somalia looks to the future as the UN's political mission closes",
@@ -22,62 +99,6 @@
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T09:16:14+00:00"
-    },
-    {
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T05:44:21+00:00"
-    },
-    {
-      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T04:32:07+00:00"
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T02:39:25+00:00"
-    },
-    {
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T02:12:19+00:00"
-    },
-    {
-      "title": "The Indian chef who brought curry to America - then vanished",
-      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T02:02:16+00:00"
-    },
-    {
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T01:32:33+00:00"
-    },
-    {
-      "title": "Global nature talks reach deal but money remains an issue",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-10-31T01:27:05+00:00"
     },
     {
       "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
@@ -113,34 +134,6 @@
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-10-30T12:00:00+00:00"
-    },
-    {
-      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "AI is changing the way we think. The question is whether we’ll notice in time",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "Russia drone strike on Ukrainian railway station kills 13",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-10-29T12:00:00+00:00"
     }
   ],
   "failed_feeds": [
