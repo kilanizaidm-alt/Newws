@@ -1,55 +1,160 @@
 {
-  "fetched_at": "2026-11-02T16:18:44.603812+00:00",
-  "window_start": "2026-10-30T16:18:44.603812+00:00",
+  "fetched_at": "2026-11-03T14:28:45.359239+00:00",
+  "window_start": "2026-10-31T14:28:45.359239+00:00",
   "reports": [
     {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-02T15:12:22+00:00"
+      "published_at": "2026-11-03T13:55:47+00:00"
     },
     {
-      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-02T14:35:38+00:00"
+      "published_at": "2026-11-03T13:44:44+00:00"
     },
     {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-02T14:35:01+00:00"
+      "published_at": "2026-11-03T13:28:30+00:00"
     },
     {
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-02T14:24:25+00:00"
+      "published_at": "2026-11-03T13:26:19+00:00"
     },
     {
-      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-02T13:49:19+00:00"
+      "published_at": "2026-11-03T12:09:20+00:00"
     },
     {
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Air-raid alerts and attacks on schools: the devastating face of education in Ukraine",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-02T12:22:10+00:00"
+      "published_at": "2026-11-03T12:00:00+00:00"
     },
     {
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-02T12:05:34+00:00"
+      "published_at": "2026-11-03T11:51:08+00:00"
+    },
+    {
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-03T11:33:33+00:00"
+    },
+    {
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-03T09:09:18+00:00"
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-03T08:33:20+00:00"
+    },
+    {
+      "title": "Major test for Australia's social media ban begins in High Court",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-03T07:53:38+00:00"
+    },
+    {
+      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "Six in seven journalist murders go unpunished, UNESCO reports",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168719",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "الأمم المتحدة تطلق مبادرة تأمين جديدة للاستعداد للكوارث",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145649",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "غارات جوية في ميانمار تودي بحياة مدنيين بينهم أطفال والأمم المتحدة تدين تصاعد العنف",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145650",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "السودان - هجمات المسيّرات تعطل الخدمات الأساسية والأمم المتحدة تدعو إلى حماية المدنيين",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145646",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن – نزوح نحو 300 ألف شخص منذ أغسطس، و250 ألفا محرومون من الرعاية الصحية في تعز",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145647",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "الضفة الغربية وغزة - الأمم المتحدة تدعم العائدين، وتساعد المقيمين في مبان مدمرة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145645",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "رئيسة المحكمة الجنائية الدولية: سنواصل عملنا باستقلالية وحياد رغم محاولات عرقلة مسار العدالة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145644",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "title": "اليونسكو: معظم جرائم قتل الصحفيين تمر دون عقاب",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145642",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-02T12:00:00+00:00"
     },
     {
       "title": "سوريا - منظمة العمل الدولية توسع فرص العمل اللائق للعائدين والمجتمعات المحلية",
@@ -59,25 +164,25 @@
       "published_at": "2026-11-02T12:00:00+00:00"
     },
     {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Breaking the silence in Mexico’s barracks",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-02T10:48:47+00:00"
+      "published_at": "2026-11-01T12:00:00+00:00"
     },
     {
-      "title": "What are Americans voting for in this election?",
-      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-02T09:22:55+00:00"
+      "published_at": "2026-11-01T12:00:00+00:00"
     },
     {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-02T09:10:19+00:00"
+      "published_at": "2026-11-01T12:00:00+00:00"
     },
     {
       "title": "من مناطق النزاعات إلى الفضاء الرقمي، تهديدات متزايدة تواجه الصحفيات",
@@ -92,23 +197,7 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-11-01T12:00:00+00:00"
-    },
-    {
-      "title": "الأمم المتحدة تدين وفاة موظف أممي يمني أثناء احتجازه تعسفيا لدى الحوثيين",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145637",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "title": "السودان - الأمم المتحدة تدين تصاعد هجمات المسيرات",
-      "url": "https://news.un.org/feed/view/ar/story/2026/10/1145636",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-10-31T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (en)"
-  ]
+  "failed_feeds": []
 }
