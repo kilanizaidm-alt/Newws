@@ -1,75 +1,166 @@
 {
-  "fetched_at": "2026-11-12T15:26:48.706532+00:00",
-  "window_start": "2026-11-09T15:26:48.706532+00:00",
+  "fetched_at": "2026-11-13T14:43:42.782450+00:00",
+  "window_start": "2026-11-10T14:43:42.782450+00:00",
   "reports": [
     {
-      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T15:18:20+00:00"
+      "published_at": "2026-11-13T14:21:26+00:00"
     },
     {
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T15:16:39+00:00"
+      "published_at": "2026-11-13T12:28:28+00:00"
     },
     {
-      "title": "Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T15:10:32+00:00"
+      "published_at": "2026-11-13T12:22:30+00:00"
     },
     {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "COP31: New initiative targets AI and reliable climate change information",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-12T14:27:30+00:00"
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
-      "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-12T14:12:55+00:00"
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T13:02:46+00:00"
+      "published_at": "2026-11-13T11:43:27+00:00"
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T12:56:55+00:00"
+      "published_at": "2026-11-13T11:37:08+00:00"
     },
     {
-      "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T12:42:44+00:00"
+      "published_at": "2026-11-13T08:20:28+00:00"
     },
     {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-12T12:39:39+00:00"
+      "published_at": "2026-11-13T07:01:43+00:00"
+    },
+    {
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-13T06:12:20+00:00"
+    },
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-13T03:57:01+00:00"
+    },
+    {
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-13T03:02:54+00:00"
+    },
+    {
+      "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "New platform aims to get money moving before disaster strikes",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168792",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-12T12:00:00+00:00"
     },
     {
       "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
       "publisher": "UN News",
       "language": "en",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن - مجلس الأمن يمدد نظام العقوبات ويدين تصعيد الحوثيين وهجماتهم",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145699",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "مؤتمر كوب 31 – مبادرة أممية جديدة لحماية 75 مليون شخص من الصدمات المناخية والكوارث",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145697",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن - الأمم المتحدة تدعو لحماية المدنيين وضمان وصول المساعدات بما في ذلك إلى تعز",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145698",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "غزة – 53 دولة ومنظمة تدعو إلى العمل لضمان الوصول الإنساني إلى القطاع",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145696",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "title": "السودان، وجهته الأولى - مدير برنامج الأغذية العالمي يدعو إلى وقف القتال ودعم الإغاثة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145695",
+      "publisher": "UN News",
+      "language": "ar",
       "published_at": "2026-11-12T12:00:00+00:00"
     },
     {
@@ -82,20 +173,6 @@
     {
       "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168787",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-11-11T12:00:00+00:00"
@@ -127,83 +204,6 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168782",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168781",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168779",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168778",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن: الوضع الإنساني في مدينة تعز يواصل التدهور، في ظل انقطاع طرق الإمداد الحيوية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145688",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "200 ألف متضرر من أمطار غزة.. والأمم المتحدة تدعو إلى تسريع الاستجابة الإنسانية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145687",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "مؤتمر كوب 31 – التأكيد على التحول نحو الطاقة النظيفة، والدعوة لتذليل عقبات التمويل والبنى التحتية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145686",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "جنوب السودان أمام منعطف حاسم مع اقتراب الانتخابات وسط تصاعد التحديات",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145685",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "اليونيسف: الطائرات المسيرة والجفاف يحاصران أطفال السودان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145684",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "title": "مصر - الأمم المتحدة تحذر من تصاعد انتهاكات حرية الصحافة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145683",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-10T12:00:00+00:00"
     }
   ],
   "failed_feeds": []
