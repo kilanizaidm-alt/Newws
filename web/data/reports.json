@@ -1,27 +1,104 @@
 {
-  "fetched_at": "2026-11-13T14:43:42.782450+00:00",
-  "window_start": "2026-11-10T14:43:42.782450+00:00",
+  "fetched_at": "2026-11-14T13:40:35.696451+00:00",
+  "window_start": "2026-11-11T13:40:35.696451+00:00",
   "reports": [
     {
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-13T14:21:26+00:00"
+      "published_at": "2026-11-14T11:41:20+00:00"
     },
     {
-      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-13T12:28:28+00:00"
+      "published_at": "2026-11-14T11:30:10+00:00"
     },
     {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-13T12:22:30+00:00"
+      "published_at": "2026-11-14T10:42:20+00:00"
+    },
+    {
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T07:42:11+00:00"
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T06:42:27+00:00"
+    },
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T05:52:31+00:00"
+    },
+    {
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T01:47:36+00:00"
+    },
+    {
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T00:03:56+00:00"
+    },
+    {
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T00:03:52+00:00"
+    },
+    {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-14T00:01:01+00:00"
+    },
+    {
+      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    },
+    {
+      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    },
+    {
+      "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    },
+    {
+      "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
       "title": "COP31: New initiative targets AI and reliable climate change information",
@@ -38,53 +115,32 @@
       "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T11:43:27+00:00"
+      "title": "\"قبل فوات الأوان\"، الأمم المتحدة تدعو إلى الاتفاق على قواعد تنظيم الأسلحة ذاتية التشغيل",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145702",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T11:37:08+00:00"
+      "title": "مفوض حقوق الإنسان يطالب بتسليم جثمان زميل توفي لدى الحوثيين، إلى أسرته",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145701",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T08:20:28+00:00"
+      "title": "غزة - دعوات عاجلة لإسرائيل لضمان إدخال الإغاثة المنقذة للحياة إلى القطاع",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145700",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T07:01:43+00:00"
-    },
-    {
-      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T06:12:20+00:00"
-    },
-    {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T03:57:01+00:00"
-    },
-    {
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-13T03:02:54+00:00"
+      "title": "لبنان - بعد 48 عاما من العمل على طول الخط الأزرق، قوات حفظ السلام الأممية تستعد للرحيل",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145694",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-13T12:00:00+00:00"
     },
     {
       "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
@@ -110,20 +166,6 @@
     {
       "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168792",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-11-12T12:00:00+00:00"
@@ -162,48 +204,6 @@
       "publisher": "UN News",
       "language": "ar",
       "published_at": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168788",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "أكثر من مليون شخص في لبنان يواجهون انعداما حادا للأمن الغذائي وتوقعات بارتفاع العدد",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145692",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "مسؤول أممي يجري لقاءات في عُمان في إطار جهود الإفراج عن موظفين محتجزين تعسفيا في اليمن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145691",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "مؤتمر كوب 31 – غوتيريش يقترح ميثاقا جديدا للعدالة المناخية، ويدعو الملوثين لدفع الثمن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145690",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "title": "غزة في فصل الشتاء - الأمم المتحدة تدعو إلى فتح جميع المعابر وتمويل الاستجابة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145689",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-11T12:00:00+00:00"
     }
   ],
   "failed_feeds": []
