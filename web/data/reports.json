@@ -1,128 +1,86 @@
 {
-  "fetched_at": "2026-11-15T14:07:53.802815+00:00",
-  "window_start": "2026-11-12T14:07:53.802815+00:00",
+  "fetched_at": "2026-11-16T16:07:21.381815+00:00",
+  "window_start": "2026-11-13T16:07:21.381815+00:00",
   "reports": [
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T13:42:58+00:00"
+      "published_at": "2026-11-16T16:03:24+00:00"
     },
     {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T13:37:45+00:00"
+      "published_at": "2026-11-16T15:31:20+00:00"
     },
     {
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T11:06:32+00:00"
+      "published_at": "2026-11-16T14:58:12+00:00"
     },
     {
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
+      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T09:57:25+00:00"
+      "published_at": "2026-11-16T14:48:55+00:00"
     },
     {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T09:26:37+00:00"
+      "published_at": "2026-11-16T14:22:36+00:00"
     },
     {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T08:17:41+00:00"
+      "published_at": "2026-11-16T13:40:56+00:00"
     },
     {
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+      "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T07:10:31+00:00"
+      "published_at": "2026-11-16T12:42:14+00:00"
     },
     {
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "title": "Man sentenced over 'horrific' attempted murder of three children",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T03:21:04+00:00"
+      "published_at": "2026-11-16T12:27:15+00:00"
     },
     {
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T00:06:55+00:00"
+      "published_at": "2026-11-16T11:09:38+00:00"
     },
     {
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-15T00:06:51+00:00"
+      "published_at": "2026-11-16T10:57:48+00:00"
     },
     {
-      "title": "When the rains fail: Preparing for drought in Central America",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+      "title": "منتدى خطة مسقط في عُمان يبحث تعزيز دور القيادات الدينية والتقليدية في مكافحة خطاب الكراهية وصناعة السلام",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145705",
       "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-14T12:00:00+00:00"
-    },
-    {
-      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "title": "COP31: New initiative targets AI and reliable climate change information",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-13T12:00:00+00:00"
+      "language": "ar",
+      "published_at": "2026-11-15T12:00:00+00:00"
     }
   ],
   "failed_feeds": [
-    "UN News (ar)"
+    "UN News (en)"
   ]
 }
