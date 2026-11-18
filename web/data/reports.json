@@ -1,80 +1,217 @@
 {
-  "fetched_at": "2026-11-17T16:15:33.139001+00:00",
-  "window_start": "2026-11-14T16:15:33.139001+00:00",
+  "fetched_at": "2026-11-18T15:50:20.921808+00:00",
+  "window_start": "2026-11-15T15:50:20.921808+00:00",
   "reports": [
     {
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T16:07:41+00:00"
+      "published_at": "2026-11-18T15:39:57+00:00"
     },
     {
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "title": "Hakeem Jeffries nominated to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T15:59:47+00:00"
+      "published_at": "2026-11-18T15:38:02+00:00"
     },
     {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T15:38:10+00:00"
+      "published_at": "2026-11-18T14:57:56+00:00"
     },
     {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T15:36:11+00:00"
+      "published_at": "2026-11-18T14:30:33+00:00"
     },
     {
-      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T15:19:19+00:00"
+      "published_at": "2026-11-18T13:55:14+00:00"
     },
     {
-      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T15:17:49+00:00"
+      "published_at": "2026-11-18T13:04:48+00:00"
     },
     {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T14:25:45+00:00"
+      "published_at": "2026-11-18T12:39:24+00:00"
     },
     {
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
+      "title": "Dozens more children killed in Yemen amid escalating hostilities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "publisher": "UN News",
       "language": "en",
-      "published_at": "2026-11-17T11:58:16+00:00"
+      "published_at": "2026-11-18T12:00:00+00:00"
     },
     {
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-17T11:49:01+00:00"
+      "title": "اليونيسف: مقتل عشرات الأطفال في اليمن وسط تصاعد الأعمال العدائية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145725",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-18T12:00:00+00:00"
     },
     {
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "title": "Who to watch in Spain's election race",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-17T11:17:32+00:00"
+      "published_at": "2026-11-18T11:44:25+00:00"
+    },
+    {
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-18T11:12:46+00:00"
+    },
+    {
+      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-18T10:53:21+00:00"
+    },
+    {
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "منها الولايات المتحدة، 3 بلدان في الأمريكتين تفقد وضعها كدول خالية من الحصبة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145721",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "مؤتمر كوب 31: جهود حماية المحيطات من الاحترار تصل إلى طاولة المفاوضات",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145719",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن - تحذير أممي من تدهور الأوضاع في تعز: الأمراض تنتشر وإمدادات الماء لا تغطي سوى 8 % من الاحتياجات",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145722",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "أوكرانيا - مقتل وإصابة عشرات المدنيين وتضرر بنية أساسية وجسور رئيسية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145720",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "ماهر ناصر: المشهد الإعلامي في تغطية القضية الفلسطينية تغير، والوصول الميداني لا يزال جوهريا لنقل الحقيقة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145717",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "السودان - تجاهل حماية المدنيين يؤدي إلى \"خسائر لا تطاق\" للشعب السوداني",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145716",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "حل أممي لازدحام السماء بالطائرات ودورانها حول المطارات قبل الهبوط",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145604",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "\"فشل للمجتمع الدولي\" – الأمم المتحدة تحذر من تفاقم الأزمة الإنسانية في غزة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145715",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "title": "Lebanon leading the way in mental health support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "title": "اليمن - توثيق مقتل أكثر من 70 مدنيا ونزوح 340 ألفا منذ أغسطس",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145712",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-16T12:00:00+00:00"
     }
   ],
-  "failed_feeds": [
-    "UN News (en)",
-    "UN News (ar)"
-  ]
+  "failed_feeds": []
 }
