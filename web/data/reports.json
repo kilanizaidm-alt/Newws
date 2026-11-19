@@ -1,55 +1,90 @@
 {
-  "fetched_at": "2026-11-18T15:50:20.921808+00:00",
-  "window_start": "2026-11-15T15:50:20.921808+00:00",
+  "fetched_at": "2026-11-19T15:54:27.493466+00:00",
+  "window_start": "2026-11-16T15:54:27.493466+00:00",
   "reports": [
     {
-      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T15:39:57+00:00"
+      "published_at": "2026-11-19T15:52:26+00:00"
     },
     {
-      "title": "Hakeem Jeffries nominated to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T15:38:02+00:00"
+      "published_at": "2026-11-19T15:23:34+00:00"
     },
     {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T14:57:56+00:00"
+      "published_at": "2026-11-19T13:31:23+00:00"
     },
     {
-      "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T14:30:33+00:00"
+      "published_at": "2026-11-19T13:07:35+00:00"
     },
     {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T13:55:14+00:00"
+      "published_at": "2026-11-19T12:56:30+00:00"
     },
     {
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T13:04:48+00:00"
+      "published_at": "2026-11-19T11:44:57+00:00"
     },
     {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-18T12:39:24+00:00"
+      "published_at": "2026-11-19T11:38:09+00:00"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-19T11:07:37+00:00"
+    },
+    {
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-19T10:32:10+00:00"
+    },
+    {
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-19T09:21:54+00:00"
+    },
+    {
+      "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-18T12:00:00+00:00"
+    },
+    {
+      "title": "Patients running out of options as antibiotics stop working against common infections",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168832",
+      "publisher": "UN News",
+      "language": "en",
+      "published_at": "2026-11-18T12:00:00+00:00"
     },
     {
       "title": "Dozens more children killed in Yemen amid escalating hostilities",
@@ -57,34 +92,6 @@
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "اليونيسف: مقتل عشرات الأطفال في اليمن وسط تصاعد الأعمال العدائية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145725",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "Who to watch in Spain's election race",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-18T11:44:25+00:00"
-    },
-    {
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-18T11:12:46+00:00"
-    },
-    {
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-18T10:53:21+00:00"
     },
     {
       "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
@@ -127,91 +134,9 @@
       "publisher": "UN News",
       "language": "en",
       "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "منها الولايات المتحدة، 3 بلدان في الأمريكتين تفقد وضعها كدول خالية من الحصبة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145721",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "مؤتمر كوب 31: جهود حماية المحيطات من الاحترار تصل إلى طاولة المفاوضات",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145719",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن - تحذير أممي من تدهور الأوضاع في تعز: الأمراض تنتشر وإمدادات الماء لا تغطي سوى 8 % من الاحتياجات",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145722",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "أوكرانيا - مقتل وإصابة عشرات المدنيين وتضرر بنية أساسية وجسور رئيسية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145720",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "ماهر ناصر: المشهد الإعلامي في تغطية القضية الفلسطينية تغير، والوصول الميداني لا يزال جوهريا لنقل الحقيقة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145717",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "السودان - تجاهل حماية المدنيين يؤدي إلى \"خسائر لا تطاق\" للشعب السوداني",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145716",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "حل أممي لازدحام السماء بالطائرات ودورانها حول المطارات قبل الهبوط",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145604",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "\"فشل للمجتمع الدولي\" – الأمم المتحدة تحذر من تفاقم الأزمة الإنسانية في غزة",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145715",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "title": "Lebanon leading the way in mental health support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن - توثيق مقتل أكثر من 70 مدنيا ونزوح 340 ألفا منذ أغسطس",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145712",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-16T12:00:00+00:00"
     }
   ],
-  "failed_feeds": []
+  "failed_feeds": [
+    "UN News (ar)"
+  ]
 }
