@@ -1,217 +1,80 @@
 {
-  "fetched_at": "2026-11-20T15:37:38.411925+00:00",
-  "window_start": "2026-11-17T15:37:38.411925+00:00",
+  "fetched_at": "2026-11-21T14:47:35.341925+00:00",
+  "window_start": "2026-11-18T14:47:35.341925+00:00",
   "reports": [
     {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T13:52:04+00:00"
+      "published_at": "2026-11-21T13:17:38+00:00"
     },
     {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T13:28:32+00:00"
+      "published_at": "2026-11-21T10:26:36+00:00"
     },
     {
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T13:01:16+00:00"
+      "published_at": "2026-11-21T09:52:11+00:00"
     },
     {
-      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-20T12:00:00+00:00"
-    },
-    {
-      "title": "اليونيفيل - المدنيون يتحملون العبء الأكبر للصراع في ظل استمرار الانتهاكات في جنوب لبنان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145740",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-20T12:00:00+00:00"
-    },
-    {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T10:56:02+00:00"
+      "published_at": "2026-11-21T09:40:55+00:00"
     },
     {
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T10:16:19+00:00"
+      "published_at": "2026-11-21T09:34:20+00:00"
     },
     {
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T06:32:17+00:00"
+      "published_at": "2026-11-21T08:10:25+00:00"
     },
     {
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T05:03:43+00:00"
+      "published_at": "2026-11-21T08:10:03+00:00"
     },
     {
-      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T04:13:22+00:00"
+      "published_at": "2026-11-21T04:34:00+00:00"
     },
     {
-      "title": "US army warns detonation of unstable explosives will create toxic plume",
-      "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T01:27:27+00:00"
+      "published_at": "2026-11-21T01:02:39+00:00"
     },
     {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-20T00:50:24+00:00"
-    },
-    {
-      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168842",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "‘Losing the battle’: AI hands predators new ways to target children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "No government approval needed to form or join a group, UN rights committee says",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "اليونيفيل ترصد انتهاكات جوية وقصفا مدفعيا في مناطق عملياتها، وتواجه قيودا تعيق تحركاتها",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145738",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "تأثير الذكاء الاصطناعي على الأطفال، واقع محفوف بالمخاطر وفرص لحمايتهم من العنف والاستغلال",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145736",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "في اليوم العالمي لدورات المياه - نازحو غزة يكافحون لقضاء أبسط احتياجاتهم الإنسانية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145735",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "مؤتمر المناخ: اختفاء \"الطموح\" مع حذف بنود الوقود الأحفوري من مسودة الاتفاق",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145734",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "أعلى محكمة في العالم تدين ميانمار بارتكاب إبادة جماعية ضد الروهينجا",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145733",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "تقرير أممي: الشباب أكثر تعليما لكنهم أقل قدرة على الاستقلال وبناء مستقبلهم",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145732",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "Patients running out of options as antibiotics stop working against common infections",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168832",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "Dozens more children killed in Yemen amid escalating hostilities",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "مؤتمر المناخ - استمرار الجمود مع إطلاق تقييم عالمي جديد للوفاء بالتعهدات المناخية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145731",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "غزة - نزوح فلسطينيين بعد الإعلان عن عملية عسكرية في دير البلح",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145729",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "مؤتمر الأمم المتحدة للمياه في أبو ظبي - معالجة التحديات وإيجاد الحلول العملية",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145730",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-18T12:00:00+00:00"
+      "published_at": "2026-11-21T00:34:51+00:00"
     }
   ],
-  "failed_feeds": []
+  "failed_feeds": [
+    "UN News (en)",
+    "UN News (ar)"
+  ]
 }
