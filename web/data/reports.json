@@ -1,7 +1,70 @@
 {
-  "fetched_at": "2026-11-21T14:47:35.341925+00:00",
-  "window_start": "2026-11-18T14:47:35.341925+00:00",
+  "fetched_at": "2026-11-22T14:44:01.275558+00:00",
+  "window_start": "2026-11-19T14:44:01.275558+00:00",
   "reports": [
+    {
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T14:05:20+00:00"
+    },
+    {
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T11:25:14+00:00"
+    },
+    {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T09:20:45+00:00"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T07:12:41+00:00"
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T01:25:03+00:00"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T00:10:44+00:00"
+    },
+    {
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T00:10:37+00:00"
+    },
+    {
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-22T00:09:58+00:00"
+    },
+    {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publisher": "BBC News",
+      "language": "en",
+      "published_at": "2026-11-21T22:01:19+00:00"
+    },
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
@@ -10,71 +73,70 @@
       "published_at": "2026-11-21T13:17:38+00:00"
     },
     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T10:26:36+00:00"
+      "title": "غزة - أطفال يواجهون أعباء الحياة بدلا من مقاعد الدراسة",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145749",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T09:52:11+00:00"
+      "title": "مؤتمر كوب -31: مطالبات باتفاق مناخي أقوى مع بلوغ محادثات أنطاليا يومها الأخير",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145745",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T09:40:55+00:00"
+      "title": "قلق أممي بشأن تقارير شن غارات جوية على الحديدة، وهجمات الحوثيين على السعودية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145748",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T09:34:20+00:00"
+      "title": "\"لحظة تاريخية\" - رئيس الجمعية العامة يخاطب الروهينجا بعد حكم محكمة العدل الدولية: العالم سمع صوتكم",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145747",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T08:10:25+00:00"
+      "title": "اليونيسف: الحرب في أوكرانيا تسلب الأطفال طفولتهم، وأعداد الضحايا منهم تبلغ مستويات قياسية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145744",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T08:10:03+00:00"
+      "title": "أفغانستان - الأمم المتحدة تحذر من تفاقم حرمان النساء والفتيات من الرعاية الصحية",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145742",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T04:34:00+00:00"
+      "title": "\"عنف غير مسبوق\" - دعوات لإسرائيل لحماية الفلسطينيين خلال موسم قطف الزيتون",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145743",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T01:02:39+00:00"
+      "title": "أزمة غذاء تلوح في الأفق - برنامج الأغذية العالمي يسعى لمساعدة 91 مليون شخص العام المقبل",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145741",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     },
     {
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "publisher": "BBC News",
-      "language": "en",
-      "published_at": "2026-11-21T00:34:51+00:00"
+      "title": "اليونيفيل - المدنيون يتحملون العبء الأكبر للصراع في ظل استمرار الانتهاكات في جنوب لبنان",
+      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145740",
+      "publisher": "UN News",
+      "language": "ar",
+      "published_at": "2026-11-20T12:00:00+00:00"
     }
   ],
   "failed_feeds": [
-    "UN News (en)",
-    "UN News (ar)"
+    "UN News (en)"
   ]
 }
