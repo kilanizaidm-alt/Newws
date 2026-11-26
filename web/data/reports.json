@@ -1,217 +1,80 @@
 {
-  "fetched_at": "2026-11-25T17:26:15.646320+00:00",
-  "window_start": "2026-11-22T17:26:15.646320+00:00",
+  "fetched_at": "2026-11-26T17:06:47.323579+00:00",
+  "window_start": "2026-11-23T17:06:47.323579+00:00",
   "reports": [
     {
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T16:20:14+00:00"
+      "published_at": "2026-11-26T16:39:30+00:00"
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T16:07:26+00:00"
+      "published_at": "2026-11-26T16:21:19+00:00"
     },
     {
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T15:42:50+00:00"
+      "published_at": "2026-11-26T15:57:26+00:00"
     },
     {
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T15:41:39+00:00"
+      "published_at": "2026-11-26T15:23:17+00:00"
     },
     {
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T14:46:41+00:00"
+      "published_at": "2026-11-26T15:17:18+00:00"
     },
     {
-      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T14:06:13+00:00"
+      "published_at": "2026-11-26T14:44:26+00:00"
     },
     {
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T12:24:12+00:00"
+      "published_at": "2026-11-26T14:35:22+00:00"
     },
     {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T12:21:49+00:00"
+      "published_at": "2026-11-26T12:33:23+00:00"
     },
     {
-      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168876",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168874",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "\"لن نسمح بأن يغيب الشعب اليمني عن أنظار العالم\" - مسؤول الشؤون الإنسانية بالأمم المتحدة يصل إلى اليمن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145768",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "أرامل غزة يواجهن أعباء الحرب والبقاء بمفردهن - رحلة يومية بين المأوى والماء ولقمة العيش",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145767",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "من العنف إلى الأمان، مركز للأزمات في أوزبكستان يوفر الملاذ والدعم للنساء ضحايا العنف",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145746",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-25T12:00:00+00:00"
-    },
-    {
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T10:52:09+00:00"
+      "published_at": "2026-11-26T12:16:06+00:00"
     },
     {
-      "title": "Protesters call on Israel to free Palestinian student held without charge",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
       "publisher": "BBC News",
       "language": "en",
-      "published_at": "2026-11-25T10:03:42+00:00"
-    },
-    {
-      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
-      "publisher": "UN News",
-      "language": "en",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "اليمن - نزوح 364 ألف شخص وتعطل تطعيم 350 ألف طفل في تعز بسبب انعدام الأمن",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145766",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "السودان - نزوح آلاف الأشخاص في ولايتي النيل الأزرق وغرب كردفان",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145765",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "840 مليون امرأة تعرضن للعنف - الأمم المتحدة تدعو إلى العدالة وحماية الناجيات وإنهاء الإفلات من العقاب",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145763",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "سيدتان أفغانيتان تكافحان لإعادة بناء حياتهما بعد إجبارهما على العودة من إيران",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145718",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "الأمم المتحدة: الذكاء الاصطناعي يتيح فرصا هائلة، ولا مكان للروبوتات القاتلة في مستقبلنا",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145764",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "الكونغو الديمقراطية - القتال يعيق الاستجابة لتفشي الإيبولا، والعنف ضد النساء والفتيات يتفاقم",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145762",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
-    },
-    {
-      "title": "منظمة الصحة العالمية: ارتفاع سريع في حالات التهاب السحايا في غزة، والأطفال الصغار في دائرة الخطر",
-      "url": "https://news.un.org/feed/view/ar/story/2026/11/1145761",
-      "publisher": "UN News",
-      "language": "ar",
-      "published_at": "2026-11-24T12:00:00+00:00"
+      "published_at": "2026-11-26T11:00:39+00:00"
     }
   ],
-  "failed_feeds": []
+  "failed_feeds": [
+    "UN News (en)",
+    "UN News (ar)"
+  ]
 }
